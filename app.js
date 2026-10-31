@@ -28,7 +28,7 @@ const CONFIG = {
     'universe':        { icon: '🌌', label: 'ब्रह्माण्ड',          color: '#a855f7' },
     'world_geography': { icon: '🌍', label: 'विश्व भूगोल',         color: '#38bdf8' },
     'world_history':   { icon: '🏛️', label: 'विश्व इतिहास',       color: '#f97316' }
-  }
+     }
   }
 };
 
