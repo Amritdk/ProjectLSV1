@@ -1,14 +1,12 @@
 // ═════════════════════════════════════════════════════════════════════
-// CONFIG — GitHub-only, GitHub Pages deployment
+// CONFIG — works on file:// AND GitHub Pages
 // ═════════════════════════════════════════════════════════════════════
-// Everything loads from GitHub. There is no local file support.
-// The app MUST be accessed via https://USERNAME.github.io/REPO/ — NOT
-// by double-clicking index.html.
+// Data loads from GitHub in BOTH environments:
+//   • Double-click index.html → fetches from api.github.com + raw.githubusercontent.com
+//   • YOURNAME.github.io/REPO/ → same fetch
 //
-// If you deploy to GitHub Pages, auto-detection reads owner/repo from
-// the URL. You can leave GITHUB.owner/repo EMPTY.
-//
-// If you use a custom domain, fill GITHUB.owner + repo below.
+// GitHub's servers send CORS headers (*), so file:// works fine.
+// Only local data/*.json fetches are blocked on file:// — irrelevant here.
 // ═════════════════════════════════════════════════════════════════════
 
 const CONFIG = {
@@ -120,16 +118,6 @@ async function listGithubFolder(t) {
 async function loadManifest() {
   SOURCE_ERRORS = [];
   SOURCE_USED = null;
-
-  // If opened from file:// → short-circuit with a clear message
-  if (location.protocol === 'file:') {
-    SOURCE_ERRORS.push({
-      source: 'file://',
-      error: 'यो app ले file:// बाट काम गर्दैन। GitHub Pages URL बाट खोल्नुहोस्।'
-    });
-    DATASETS = [];
-    return;
-  }
 
   const gh = githubTarget();
   if (!gh) {
@@ -313,7 +301,6 @@ function rebuildAll() { allQuestions = [...userQuestions, ...fileQuestions]; shu
 async function loadDirectJsonFiles() {
   datasetStatus = [];
 
-  // Progressive display: mark all pending first
   datasetStatus = DATASETS.map(ds => ({ ...ds, count: 0, ok: null, pending: true }));
   renderDatasetStatus();
 
@@ -365,32 +352,11 @@ function renderDatasetStatus() {
 
   // Empty state
   if (total === 0) {
-    const isFile = location.protocol === 'file:';
     const tried = SOURCE_ERRORS.map(e =>
       `<div style="font-size:11px;color:var(--muted);margin:3px 0">
          • <b>${escapeHtml(e.source)}</b>: ${escapeHtml(e.error)}
        </div>`
     ).join('');
-
-    let actionHtml = '';
-    if (isFile) {
-      actionHtml = `
-        <div style="padding:14px;background:rgba(248,113,113,.08);border-radius:10px;margin-bottom:12px">
-          <div style="font-weight:600;color:var(--danger);margin-bottom:8px">
-            ⚠️ यो app ले file:// बाट काम गर्दैन
-          </div>
-          <div style="font-size:12px;line-height:1.8;color:var(--muted)">
-            यो app <b>GitHub Pages</b> बाट चल्न डिजाइन गरिएको छ।
-            <br><br>
-            index.html double-click नगर्नुहोस्। तपाईंको GitHub Pages URL खोल्नुहोस्:
-            <br><br>
-            <code style="background:rgba(255,255,255,.06);padding:6px 10px;border-radius:4px;display:inline-block;font-size:12px;color:var(--accent)">https://USERNAME.github.io/REPO/</code>
-            <br><br>
-            Pages enable गर्न: repo → Settings → Pages → Branch <b>main</b> → <b>/(root)</b> → Save
-          </div>
-        </div>
-      `;
-    }
 
     countEl.textContent = userQs > 0 ? `0 · ${userQs} local` : '0';
     countEl.className = 'none';
@@ -400,7 +366,6 @@ function renderDatasetStatus() {
         <div style="font-weight:600;color:var(--danger);margin-bottom:10px;text-align:center">
           ⚠️ कुनै JSON फाइल लोड भएन
         </div>
-        ${actionHtml}
         ${tried ? `
           <div style="font-size:12px;line-height:1.7;margin-bottom:12px">
             <b>प्रयास गरिएका स्रोतहरू:</b>
