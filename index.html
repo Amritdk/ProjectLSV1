@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>लोकसेवा प्रश्न बैंक</title>
+  <style>
+    :root {
+      --bg: #0f172a; --card: #1e293b; --border: #334155;
+      --text: #f1f5f9; --muted: #94a3b8;
+      --accent: #38bdf8; --accent2: #22c55e;
+      --danger: #f87171; --warning: #fbbf24;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans Devanagari", sans-serif;
+      background: radial-gradient(1200px 600px at 50% -10%, #1e293b 0%, var(--bg) 60%);
+      color: var(--text); min-height: 100vh; padding: 12px; line-height: 1.6;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; }
+
+    header.app { display: flex; align-items: center; gap: 12px; padding: 6px 4px 16px; }
+    .logo {
+      width: 46px; height: 46px; flex: 0 0 auto; border-radius: 14px;
+      display: grid; place-items: center; font-size: 22px;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      box-shadow: 0 6px 18px rgba(56,189,248,.25);
+    }
+    header h1 { font-size: 17px; font-weight: 700; }
+    header .sub { font-size: 12px; color: var(--muted); }
+
+    .mode-tabs {
+      display: flex; gap: 4px; padding: 4px;
+      background: #0b1220; border: 1px solid var(--border);
+      border-radius: 12px; margin-bottom: 10px;
+    }
+    .mode-tab {
+      flex: 1; padding: 10px; border-radius: 9px; border: none;
+      background: transparent; color: var(--muted);
+      font-family: inherit; font-size: 14px; font-weight: 600;
+      cursor: pointer; transition: .15s;
+    }
+    .mode-tab.active { background: var(--card); color: var(--text); box-shadow: 0 2px 8px rgba(0,0,0,.2); }
+    .mode-tab[data-mode="quiz"].active { color: var(--accent); }
+
+    .dataset-panel {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 14px; margin-bottom: 12px; overflow: hidden;
+    }
+    .dataset-panel-header {
+      display: flex; align-items: center; gap: 8px;
+      padding: 11px 14px; font-size: 13px; font-weight: 600; user-select: none;
+    }
+    .dataset-panel-header .spacer { flex: 1; }
+    .dataset-panel-header b { color: var(--accent2); font-size: 13px; }
+    .dataset-panel-header b.partial { color: var(--warning); }
+    .dataset-panel-header b.none { color: var(--danger); }
+    .dataset-panel-header button {
+      background: transparent; border: 1px solid var(--border);
+      color: var(--muted); padding: 3px 9px; border-radius: 7px;
+      cursor: pointer; font-size: 12px; font-family: inherit; transition: .15s;
+    }
+    .dataset-panel-header button:hover { border-color: var(--accent); color: var(--accent); }
+    .dataset-panel-header button.danger:hover { border-color: var(--danger); color: var(--danger); }
+    .dataset-panel-body { border-top: 1px solid var(--border); max-height: 320px; overflow-y: auto; }
+    .dataset-panel-body.collapsed { display: none; }
+    .dataset-row {
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 14px; font-size: 13px;
+    }
+    .dataset-row + .dataset-row { border-top: 1px solid rgba(51,65,85,.5); }
+    .dataset-row .ds-icon { font-size: 18px; flex: 0 0 auto; }
+    .dataset-row .ds-info { flex: 1; min-width: 0; }
+    .dataset-row .ds-label { font-weight: 600; margin-bottom: 2px; }
+    .dataset-row .ds-file {
+      font-size: 11px; color: var(--muted);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .dataset-row .ds-count {
+      font-size: 12px; padding: 3px 9px; border-radius: 8px;
+      white-space: nowrap; font-weight: 600;
+    }
+    .dataset-row.ok .ds-count { background: rgba(34,197,94,.15); color: var(--accent2); }
+    .dataset-row.fail .ds-count { background: rgba(248,113,113,.15); color: var(--danger); }
+    .dataset-row.fail .ds-file { color: var(--danger); }
+    .dataset-empty { padding: 20px 14px; text-align: center; color: var(--muted); font-size: 13px; }
+
+    .toolbar {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(30,41,59,.94);
+      -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+      border: 1px solid var(--border); border-radius: 16px;
+      padding: 12px; margin-bottom: 12px;
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    .search-wrap { position: relative; }
+    .search-wrap input {
+      width: 100%; padding: 12px 40px 12px 14px; border-radius: 12px;
+      border: 1px solid var(--border); background: #0b1220; color: var(--text);
+      font-size: 14px; font-family: inherit; outline: none;
+    }
+    .search-wrap input::placeholder { color: var(--muted); }
+    .search-wrap input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(56,189,248,.15); }
+    .clear-btn {
+      position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+      background: transparent; border: none; color: var(--muted);
+      font-size: 16px; cursor: pointer; padding: 4px 10px; font-family: inherit;
+    }
+    .toolbar-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: stretch; }
+    .toolbar-row select, .toolbar-row input[type="number"] {
+      flex: 1 1 auto; min-width: 0; padding: 10px 12px; border-radius: 10px;
+      border: 1px solid var(--border); background: #0b1220; color: var(--text);
+      font-family: inherit; font-size: 13px; outline: none;
+    }
+    .toolbar-row select:focus, .toolbar-row input:focus { border-color: var(--accent); }
+    .toolbar-row select:disabled, .toolbar-row input:disabled { opacity: .5; cursor: not-allowed; }
+    .toggle-btn {
+      padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border);
+      background: #0b1220; color: var(--muted); font-family: inherit; font-size: 13px;
+      cursor: pointer; white-space: nowrap; transition: .15s;
+    }
+    .toggle-btn.active { background: rgba(251,191,36,.15); border-color: var(--warning); color: var(--warning); font-weight: 600; }
+    .toggle-btn:disabled { opacity: .5; cursor: not-allowed; }
+    .counts { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+    .counts b { color: var(--text); }
+    #rangeInfo { margin-left: auto; }
+
+    .chips { display: flex; gap: 8px; overflow-x: auto; padding: 4px 0 12px; scrollbar-width: none; }
+    .chips::-webkit-scrollbar { display: none; }
+    .chip {
+      flex: 0 0 auto; padding: 7px 14px; border-radius: 999px;
+      border: 1px solid var(--border); background: var(--card);
+      color: var(--muted); font-size: 13px; font-family: inherit; cursor: pointer;
+      transition: .15s; white-space: nowrap;
+    }
+    .chip.active { background: rgba(56,189,248,.15); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+
+    .skeleton-card {
+      height: 118px; margin-bottom: 10px; border-radius: 14px;
+      background: linear-gradient(90deg, #1a2638 0%, #23324a 50%, #1a2638 100%);
+      background-size: 200% 100%; animation: shimmer 1.4s ease-in-out infinite;
+    }
+    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+    .card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 14px; padding: 14px; margin-bottom: 10px;
+      border-left: 4px solid transparent; animation: fade .2s ease;
+    }
+    @keyframes fade { from{opacity:0;transform:translateY(4px)} to{opacity:1;transform:none} }
+    .card-top { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 8px; }
+    .card .q { flex: 1; font-size: 15px; font-weight: 600; line-height: 1.6; }
+    .card .a { font-size: 14px; color: #cbd5e1; margin-bottom: 10px; line-height: 1.6; }
+    .card .meta { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .tag { display: inline-block; font-size: 11px; padding: 3px 9px; border-radius: 999px; background: rgba(56,189,248,.12); color: var(--accent); margin-right: 6px; }
+    .source-badge { font-size: 11px; color: var(--muted); }
+    .actions { display: flex; gap: 6px; flex-wrap: wrap; }
+    .bookmark-btn {
+      flex: 0 0 auto; background: transparent; border: none; color: var(--muted);
+      font-size: 20px; line-height: 1; cursor: pointer; padding: 2px 6px;
+      font-family: inherit; transition: transform .12s, color .12s;
+    }
+    .bookmark-btn.active { color: var(--warning); text-shadow: 0 0 10px rgba(251,191,36,.4); }
+    .bookmark-btn:active { transform: scale(1.25); }
+    .edit-btn { font-size: 11px; padding: 4px 10px; border-radius: 8px; border: 1px solid rgba(56,189,248,.4); background: rgba(56,189,248,.1); color: #7dd3fc; cursor: pointer; font-family: inherit; }
+    .user-card { border-left-color: var(--accent2); }
+
+    .pager { display: flex; gap: 6px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 8px 0; }
+    .pager button { padding: 8px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 13px; font-family: inherit; cursor: pointer; transition: .15s; }
+    .pager button:not(:disabled):active { background: #0b1220; }
+    .pager button:disabled { opacity: .35; cursor: default; }
+    .pg-info { font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+    .pg-input { width: 56px; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--border); background: #0b1220; color: var(--text); font-family: inherit; font-size: 13px; text-align: center; }
+
+    .empty { text-align: center; color: var(--muted); padding: 48px 16px; font-size: 14px; line-height: 1.8; }
+    footer { margin-top: 20px; padding: 16px 0 100px; text-align: center; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+
+    .add-btn {
+      position: fixed; right: 18px; bottom: 18px; width: 56px; height: 56px;
+      border-radius: 50%; border: none;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #06210f; font-size: 26px; cursor: pointer; z-index: 500;
+      box-shadow: 0 8px 24px rgba(56,189,248,.35);
+      display: grid; place-items: center; font-family: inherit;
+    }
+    .add-btn:active { transform: scale(.94); }
+    body.quiz-mode .add-btn { display: none; }
+    body.quiz-mode #datasetPanel { display: none; }
+
+    .modal-overlay {
+      position: fixed; inset: 0; background: rgba(2,6,23,.75);
+      display: none; align-items: center; justify-content: center;
+      padding: 16px; z-index: 1000;
+      backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+    }
+    .modal-overlay.open { display: flex; }
+    .modal { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 20px; width: 100%; max-width: 480px; max-height: 90vh; overflow-y: auto; animation: pop .18s ease; }
+    @keyframes pop { from{transform:scale(.96);opacity:0} to{transform:scale(1);opacity:1} }
+    .modal h2 { font-size: 16px; margin-bottom: 14px; }
+    .form-group { margin-bottom: 14px; }
+    .form-group label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; padding: 10px 12px; border-radius: 10px;
+      border: 1px solid var(--border); background: #0b1220; color: var(--text);
+      font-size: 14px; font-family: inherit; outline: none; resize: vertical;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color: var(--accent); }
+    .modal-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 8px; }
+    .btn-success, .btn-outline { padding: 10px 18px; border-radius: 10px; font-size: 14px; font-family: inherit; cursor: pointer; border: 1px solid var(--border); background: var(--card); color: var(--text); transition: .15s; }
+    .btn-success { background: var(--accent2); border-color: var(--accent2); color: #06210f; font-weight: 600; }
+    .btn-success:active { filter: brightness(.92); }
+    .btn-outline:active { background: #0b1220; }
+
+    .cache-option {
+      display: flex; gap: 12px; padding: 12px 14px; border-radius: 10px;
+      background: #0b1220; border: 1px solid var(--border);
+      margin-bottom: 8px; cursor: pointer; align-items: flex-start; transition: .15s;
+    }
+    .cache-option:hover { border-color: var(--accent); }
+    .cache-option input[type="checkbox"] { margin-top: 3px; width: 18px; height: 18px; flex: 0 0 auto; accent-color: var(--accent); cursor: pointer; }
+    .cache-option > div { flex: 1; min-width: 0; }
+    .cache-label { font-size: 14px; font-weight: 600; margin-bottom: 2px; }
+    .cache-desc { font-size: 12px; color: var(--muted); line-height: 1.5; }
+    #cacheClearBtn { background: var(--danger); border-color: var(--danger); color: #2a0a0a; font-weight: 600; }
+    .cache-hard-reset { text-align: center; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--border); }
+    .cache-hard-reset a { color: var(--danger); font-size: 12px; text-decoration: underline; cursor: pointer; }
+
+    .toast {
+      position: fixed; left: 50%; bottom: 88px; transform: translateX(-50%) translateY(20px);
+      background: #1e293b; color: #f1f5f9; border: 1px solid #334155;
+      padding: 12px 18px; border-radius: 12px; font-size: 14px; max-width: 90vw;
+      text-align: center; opacity: 0; pointer-events: none;
+      transition: opacity .2s, transform .2s; z-index: 2000;
+      box-shadow: 0 10px 30px rgba(0,0,0,.4);
+    }
+    .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+    .toast.error { border-color: #f87171; color: #fecaca; }
+
+    #quizView { display: none; }
+    body.quiz-mode #quizView { display: block; }
+    body.quiz-mode #browseView { display: none; }
+    body.quiz-mode #toolbar { display: none; }
+    body.quiz-mode header.app .sub { display: none; }
+
+    .quiz-header {
+      display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+      padding: 10px 12px; background: var(--card); border: 1px solid var(--border);
+      border-radius: 12px; margin-bottom: 10px; font-size: 13px;
+    }
+    .quiz-header b { color: var(--accent); }
+    .quiz-header .qh-right { margin-left: auto; display: flex; gap: 6px; }
+    .quiz-header button { padding: 6px 12px; font-size: 12px; border-radius: 8px; border: 1px solid var(--border); background: #0b1220; color: var(--text); cursor: pointer; font-family: inherit; }
+    .quiz-progress { height: 4px; background: var(--border); border-radius: 999px; overflow: hidden; margin-bottom: 14px; }
+    .quiz-progress-bar { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); width: 0%; transition: width .3s ease; }
+
+    .quiz-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 16px; animation: fade .2s ease; }
+    .quiz-q-text { font-size: 16px; font-weight: 600; margin-bottom: 14px; line-height: 1.65; }
+    .quiz-options { display: flex; flex-direction: column; gap: 8px; }
+    .quiz-opt { display: flex; gap: 10px; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--border); background: #0b1220; color: var(--text); font-size: 14px; font-family: inherit; cursor: pointer; transition: .15s; text-align: left; }
+    .quiz-opt:not(:disabled):active { background: #131f36; }
+    .quiz-opt .qkey { flex: 0 0 auto; width: 24px; height: 24px; border-radius: 8px; display: grid; place-items: center; font-size: 12px; background: rgba(148,163,184,.15); color: var(--muted); }
+    .quiz-opt.correct { border-color: var(--accent2); background: rgba(34,197,94,.12); }
+    .quiz-opt.correct .qkey { background: var(--accent2); color: #06210f; font-weight: 700; }
+    .quiz-opt.wrong { border-color: var(--danger); background: rgba(248,113,113,.12); }
+    .quiz-opt.wrong .qkey { background: var(--danger); color: #2a0a0a; font-weight: 700; }
+    .quiz-opt:disabled { cursor: default; }
+
+    .quiz-feedback { margin-top: 12px; padding: 10px 12px; border-radius: 12px; background: rgba(251,191,36,.08); border-left: 3px solid var(--warning); font-size: 13px; }
+    .quiz-feedback b { color: var(--warning); }
+    .quiz-nav { display: flex; justify-content: flex-end; margin-top: 12px; }
+    .quiz-next { padding: 12px 24px; border-radius: 12px; background: var(--accent); border: none; color: #06210f; font-weight: 600; font-family: inherit; font-size: 14px; cursor: pointer; transition: filter .15s; }
+    .quiz-next:active { filter: brightness(.9); }
+
+    .quiz-result { background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 24px; text-align: center; animation: fade .2s ease; }
+    .quiz-result .score { font-size: 48px; font-weight: 800; color: var(--accent); line-height: 1; }
+    .quiz-result .score-label { font-size: 13px; color: var(--muted); margin: 8px 0 20px; }
+    .quiz-result .msg { font-size: 15px; margin-bottom: 20px; }
+    .quiz-result .actions { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+    .quiz-review { text-align: left; margin-top: 20px; border-top: 1px solid var(--border); padding-top: 16px; }
+    .quiz-review h3 { font-size: 14px; margin-bottom: 10px; color: var(--danger); }
+    .quiz-review-item { padding: 10px; border-radius: 10px; background: rgba(248,113,113,.06); border-left: 3px solid var(--danger); margin-bottom: 8px; font-size: 13px; }
+    .quiz-review-item .q { font-weight: 600; margin-bottom: 4px; }
+    .quiz-review-item .a { margin-bottom: 2px; }
+    .quiz-review-item .a.wrong { color: var(--danger); text-decoration: line-through; }
+    .quiz-review-item .a.correct { color: var(--accent2); }
+    .quiz-review-item .tag { margin-top: 6px; }
+  </style>
+</head>
+<body>
+
+  <div class="wrap">
+    <header class="app">
+      <div class="logo">📚</div>
+      <div>
+        <h1>लोकसेवा प्रश्न बैंक</h1>
+        <p class="sub">GitHub datasets · खोज्नुहोस्, अभ्यास गर्नुहोस्</p>
+      </div>
+    </header>
+
+    <div class="mode-tabs">
+      <button class="mode-tab active" data-mode="browse">📖 Browse</button>
+      <button class="mode-tab" data-mode="quiz">🎯 Quiz</button>
+    </div>
+
+    <div class="toolbar" id="toolbar">
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="🔍 प्रश्न, उत्तर वा श्रेणी खोज्नुहोस्..." autocomplete="off" />
+        <button id="clearSearch" class="clear-btn" style="display:none" aria-label="Clear">✕</button>
+      </div>
+      <div class="toolbar-row">
+        <select id="datasetSelect"></select>
+        <select id="sortSelect" title="क्रम मिलाउनुहोस्">
+          <option value="newest">🕐 नयाँ पहिले</option>
+          <option value="az">🔤 A → Z</option>
+          <option value="za">🔤 Z → A</option>
+          <option value="category">📂 श्रेणी अनुसार</option>
+          <option value="random">🎲 Random</option>
+        </select>
+      </div>
+      <div class="toolbar-row">
+        <select id="pageSizeSelect">
+          <option value="10">10 / पेज</option>
+          <option value="20" selected>20 / पेज</option>
+          <option value="50">50 / पेज</option>
+          <option value="100">100 / पेज</option>
+          <option value="custom">अनुकूल…</option>
+          <option value="0">सबै</option>
+        </select>
+        <input id="pageSizeCustom" type="number" min="1" max="500" placeholder="जति" style="display:none; max-width:90px" />
+        <button id="bookmarkFilter" class="toggle-btn" title="बुकमार्क मात्र देखाउनुहोस्">☆ बुकमार्क</button>
+      </div>
+      <div class="counts">
+        <span>कुल: <b id="totalCount">0</b></span>
+        <span>देखिएको: <b id="shownCount">0</b></span>
+        <span id="rangeInfo"></span>
+      </div>
+    </div>
+
+    <div id="browseView">
+      <div class="dataset-panel" id="datasetPanel">
+        <div class="dataset-panel-header">
+          <span>📂 लोड भएका डाटासेटहरू: <b id="datasetCount">—</b></span>
+          <span class="spacer"></span>
+          <button id="datasetToggle" title="विस्तार/संकुचन">▲</button>
+          <button id="datasetRefresh" title="रीफ्रेस">↻</button>
+          <button id="clearCacheBtn" class="danger" title="Cache सफा गर्नुहोस्">🗑️</button>
+        </div>
+        <div class="dataset-panel-body" id="datasetBody"></div>
+      </div>
+
+      <div id="filters" class="chips"></div>
+      <div id="pagerTop" class="pager"></div>
+      <main id="list"></main>
+      <div id="empty" class="empty" style="display:none"></div>
+      <div id="pagerBottom" class="pager"></div>
+      <footer>
+        <button class="btn-outline" id="exportBtn" type="button">⬇ निर्यात (JSON)</button>
+        <label class="btn-outline" style="cursor:pointer">
+          ⬆ आयात (JSON)
+          <input type="file" id="importFile" accept=".json,application/json" hidden />
+        </label>
+      </footer>
+    </div>
+
+    <div id="quizView">
+      <div class="quiz-header">
+        <span>प्रश्न <b id="quizNum">1</b> / <span id="quizTotal">0</span></span>
+        <span>स्कोर: <b id="quizScore">0</b></span>
+        <div class="qh-right">
+          <button id="quizRestartTop" title="फेरि सुरु">↺ रिस्टार्ट</button>
+        </div>
+      </div>
+      <div class="quiz-progress"><div class="quiz-progress-bar" id="quizProgressBar"></div></div>
+      <div id="quizCard"></div>
+    </div>
+  </div>
+
+  <button id="addBtn" class="add-btn" aria-label="नयाँ प्रश्न">＋</button>
+
+  <div id="modal" class="modal-overlay">
+    <div class="modal">
+      <h2 id="modalTitle">नयाँ प्रश्न थप्नुहोस्</h2>
+      <div class="form-group"><label for="qInput">प्रश्न</label><textarea id="qInput" rows="3" placeholder="प्रश्न लेख्नुहोस्…"></textarea></div>
+      <div class="form-group"><label for="aInput">उत्तर</label><textarea id="aInput" rows="2" placeholder="उत्तर लेख्नुहोस्…"></textarea></div>
+      <div class="form-group"><label for="catInput">श्रेणी / डाटासेट</label><select id="catInput"></select></div>
+      <div class="modal-actions">
+        <button class="btn-outline" id="cancelBtn" type="button">रद्द</button>
+        <button class="btn-success" id="saveBtn" type="button">सुरक्षित गर्नुहोस्</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="cacheModal" class="modal-overlay">
+    <div class="modal">
+      <h2>🗑️ Cache सफा गर्नुहोस्</h2>
+      <p style="color:var(--muted);font-size:12px;line-height:1.6;margin-bottom:14px">
+        तपाईंले छान्नुभएको डेटा browser को localStorage बाट मेटिन्छ। GitHub JSON फाइलहरू असर पर्दैन।
+      </p>
+      <label class="cache-option">
+        <input type="checkbox" data-cache="user" checked />
+        <div><div class="cache-label">तपाईंका प्रश्न</div><div class="cache-desc"><span id="cacheCountUser">0</span> प्रश्न — + थपेका वा ⬆ आयात गरेका</div></div>
+      </label>
+      <label class="cache-option">
+        <input type="checkbox" data-cache="bookmarks" checked />
+        <div><div class="cache-label">बुकमार्कहरू</div><div class="cache-desc"><span id="cacheCountBookmarks">0</span> बुकमार्क गरिएका प्रश्न</div></div>
+      </label>
+      <label class="cache-option">
+        <input type="checkbox" data-cache="data" checked />
+        <div><div class="cache-label">Cache गरिएको डेटा</div><div class="cache-desc">manifest + प्रत्येक dataset को JSON copy</div></div>
+      </label>
+      <label class="cache-option">
+        <input type="checkbox" data-cache="prefs" />
+        <div><div class="cache-label">Preferences</div><div class="cache-desc">Sort, Page size जस्ता सेटिङहरू</div></div>
+      </label>
+      <div class="modal-actions" style="margin-top:16px">
+        <button class="btn-outline" id="cacheCancelBtn" type="button">रद्द</button>
+        <button class="btn-success" id="cacheClearBtn" type="button">🗑️ सफा गर्नुहोस्</button>
+      </div>
+      <div class="cache-hard-reset">
+        <a id="cacheHardReset">सबै केही reset गर्नुहोस् (hard reset)</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="mcq.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4737 @@
+[
+  {
+    "q": "What is the scientific study of the universe as a whole called?",
+    "a": "Cosmology",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the branch of science that studies celestial bodies called?",
+    "a": "Astronomy",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which theory is the most widely accepted explanation for the origin of the universe?",
+    "a": "Big Bang Theory",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Approximately how old is the universe according to the Big Bang Theory?",
+    "a": "About 13.8 billion years",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Who proposed the idea of the 'primeval atom', the forerunner of the Big Bang Theory?",
+    "a": "Georges Lemaitre (Belgian priest and astronomer)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Who discovered, in 1929, that galaxies are moving away from each other (expanding universe)?",
+    "a": "Edwin Hubble",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which radiation, discovered in 1965 by Penzias and Wilson, is evidence for the Big Bang?",
+    "a": "Cosmic Microwave Background (CMB) radiation",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which theory, proposed by Hoyle, Bondi and Gold, says the universe has no beginning and no end?",
+    "a": "Steady State Theory",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the name of the galaxy in which our solar system is located?",
+    "a": "Milky Way (Akash Ganga)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the shape of the Milky Way galaxy?",
+    "a": "Barred spiral",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What are the three main shapes of galaxies?",
+    "a": "Spiral, elliptical and irregular",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which is the nearest large spiral galaxy to the Milky Way?",
+    "a": "Andromeda galaxy (M31)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the approximate diameter of the Milky Way?",
+    "a": "About 100,000 light years",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "In which arm of the Milky Way is the solar system located?",
+    "a": "Orion Arm (Orion Spur)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Approximately how long does the Sun take to orbit the centre of the Milky Way (a cosmic year)?",
+    "a": "About 225-250 million years",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Light year is a unit of what?",
+    "a": "Distance (not time)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the approximate value of one light year?",
+    "a": "About 9.46 trillion km",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the approximate speed of light in vacuum?",
+    "a": "About 3 x 10^8 m/s (299,792 km/s)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is a parsec equal to, approximately?",
+    "a": "3.26 light years",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is an Astronomical Unit (AU)?",
+    "a": "Average distance between the Earth and the Sun (about 149.6 million km)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is a nebula?",
+    "a": "A huge cloud of gas and dust in space, often the birthplace of stars",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Approximately what percentage of the universe is made of dark energy?",
+    "a": "About 68%",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Approximately what percentage of the universe is made of dark matter?",
+    "a": "About 27%",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is a black hole?",
+    "a": "A region of space with gravity so strong that not even light can escape",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the boundary around a black hole beyond which nothing can return called?",
+    "a": "Event horizon",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "In which year was the first image of a black hole (in galaxy M87) released?",
+    "a": "2019 (by the Event Horizon Telescope)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which Indian-American scientist gave the limit for the mass of a white dwarf star?",
+    "a": "Subrahmanyan Chandrasekhar (Chandrasekhar limit, about 1.4 solar masses)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "How many constellations are officially recognised by the IAU?",
+    "a": "88",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which constellation is known in India and Nepal as Saptarshi (Seven Sages)?",
+    "a": "Ursa Major (Big Dipper / Great Bear)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "In which constellation is the Pole Star (Polaris) located?",
+    "a": "Ursa Minor (Little Bear)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "Which constellation is used to locate the southern direction in the Southern Hemisphere?",
+    "a": "Crux (Southern Cross)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What do we call a group of stars that appears to form a pattern in the sky?",
+    "a": "Constellation",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the term for a group of galaxies bound together by gravity, to which the Milky Way belongs?",
+    "a": "Local Group",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डको समग्र अध्ययन गर्ने विज्ञानलाई के भनिन्छ?",
+    "a": "ब्रह्माण्डविज्ञान (Cosmology)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "आकाशीय पिण्डहरूको अध्ययन गर्ने विज्ञानलाई के भनिन्छ?",
+    "a": "खगोल विज्ञान (Astronomy)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डको उत्पत्तिसम्बन्धी सबैभन्दा बढी मान्यता पाएको सिद्धान्त कुन हो?",
+    "a": "महाविस्फोट सिद्धान्त (बिग ब्याङ थ्योरी)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "महाविस्फोट सिद्धान्तअनुसार ब्रह्माण्डको उमेर कति मानिन्छ?",
+    "a": "करिब १३.८ अर्ब वर्ष",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "'आदिम परमाणु' को अवधारणा प्रस्ताव गर्ने वैज्ञानिक को हुन्?",
+    "a": "जर्ज लेमेत्र (बेल्जियमका पादरी तथा खगोलविद्)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्ड फैलिरहेको छ भन्ने कुरा सन् १९२९ मा कसले पत्ता लगाए?",
+    "a": "एडविन हब्बल",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "महाविस्फोटको प्रमाणका रूपमा सन् १९६५ मा पेन्जियास र विल्सनले पत्ता लगाएको विकिरण कुन हो?",
+    "a": "ब्रह्माण्डीय माइक्रोवेभ पृष्ठभूमि विकिरण (CMB)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डको न आदि छ न अन्त्य भन्ने 'स्थिर अवस्था सिद्धान्त' कसले प्रस्ताव गरे?",
+    "a": "हॉयल, बोन्डी र गोल्ड",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "हाम्रो सौर्यमण्डल रहेको आकाशगंगाको नाम के हो?",
+    "a": "मिल्की वे (दुधगंगा / आकाशगंगा)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वे आकाशगंगाको आकार कस्तो छ?",
+    "a": "बार भएको सर्पिलाकार (Barred spiral)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "आकाशगंगाका मुख्य प्रकार कति र के के हुन्?",
+    "a": "तीन: सर्पिलाकार, अण्डाकार र अनियमित",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वेको सबैभन्दा नजिकको ठूलो सर्पिल आकाशगंगा कुन हो?",
+    "a": "एन्ड्रोमेडा (M31)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वे आकाशगंगाको व्यास करिब कति छ?",
+    "a": "करिब १ लाख प्रकाश वर्ष",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "हाम्रो सौर्यमण्डल आकाशगंगाको कुन भुजामा पर्छ?",
+    "a": "ओरायन भुजा",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "सूर्यले आकाशगंगाको केन्द्रलाई एक पटक परिक्रमा गर्न करिब कति समय लाग्छ?",
+    "a": "करिब २२.५ देखि २५ करोड वर्ष (एक ब्रह्माण्डीय वर्ष)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "प्रकाश वर्ष कुन कुराको एकाइ हो?",
+    "a": "दूरीको (समयको होइन)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "एक प्रकाश वर्ष करिब कति दूरी बराबर हुन्छ?",
+    "a": "करिब ९.४६ × १०¹² किमी (९.४६ ट्रिलियन किमी)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "शून्य अवस्थामा (भ्याकुममा) प्रकाशको गति करिब कति हुन्छ?",
+    "a": "करिब ३ × १०⁸ मि./से. (३,००,००० किमी/से.)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "एक पार्सेक कति प्रकाश वर्ष बराबर हुन्छ?",
+    "a": "करिब ३.२६ प्रकाश वर्ष",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "एक खगोलीय एकाइ (AU) भनेको के हो?",
+    "a": "पृथ्वी र सूर्यबीचको औसत दूरी (करिब १४.९६ करोड किमी)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ग्यास र धुलोको ठूलो बादललाई, जहाँ ताराहरू जन्मन्छन्, के भनिन्छ?",
+    "a": "नेबुला (निहारिका)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डमा डार्क एनर्जी (कृष्ण ऊर्जा) को अनुपात करिब कति छ?",
+    "a": "करिब ६८%",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डमा डार्क म्याटर (कृष्ण पदार्थ) को अनुपात करिब कति छ?",
+    "a": "करिब २७%",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्रह्माण्डमा साधारण पदार्थ (तारा, ग्रह, ग्यास आदि) को अनुपात करिब कति छ?",
+    "a": "करिब ५%",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्ल्याक होल (कृष्ण विवर) भनेको के हो?",
+    "a": "यस्तो क्षेत्र जहाँको गुरुत्वाकर्षण यति बलियो हुन्छ कि प्रकाश पनि उम्कन सक्दैन",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्ल्याक होलको वरिपरिको, जसभित्रबाट केही पनि फर्कन सक्दैन भन्ने सीमालाई के भनिन्छ?",
+    "a": "घटना क्षितिज (Event Horizon)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ब्ल्याक होलको पहिलो तस्बिर कुन वर्ष सार्वजनिक गरियो?",
+    "a": "सन् २०१९ (M87 आकाशगंगाको)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "सेतो बौना ताराको अधिकतम द्रव्यमान सीमा (चन्द्रशेखर सीमा) कति हो र यो कसले दिए?",
+    "a": "करिब १.४ सौर्य द्रव्यमान; सुब्रह्मण्यन चन्द्रशेखर",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "अन्तर्राष्ट्रिय खगोल संघ (IAU) ले मान्यता दिएका तारामण्डलको संख्या कति छ?",
+    "a": "८८",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "सप्तऋषि तारामण्डललाई अंग्रेजीमा के भनिन्छ?",
+    "a": "अर्सा मेजर (Ursa Major / बिग डिपर)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "ध्रुवतारा (Polaris) कुन तारामण्डलमा पर्छ?",
+    "a": "अर्सा माइनर (Ursa Minor)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "दक्षिण गोलार्द्धमा दक्षिण दिशा पहिचान गर्न कुन तारामण्डल प्रयोग गरिन्छ?",
+    "a": "क्रक्स (दक्षिणी क्रस)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "नक्षत्रको परम्परागत संख्या कति मानिन्छ?",
+    "a": "२७",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "राशि कति वटा हुन्छन्?",
+    "a": "१२",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वे आकाशगंगा सम्मिलित आकाशगंगाहरूको समूहलाई के भनिन्छ?",
+    "a": "स्थानीय समूह (Local Group)",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "क्वासार (Quasar) भनेको के हो?",
+    "a": "An extremely bright active galactic nucleus powered by a supermassive black hole",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वेको केन्द्रमा रहेको महाविशाल ब्ल्याक होलको नाम के हो?",
+    "a": "Sagittarius A*",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "मिल्की वेको छेउमा रहेका दुई साना उपग्रह आकाशगंगा (दक्षिणी गोलार्द्धबाट देखिने) कुन हुन्?",
+    "a": "Large and Small Magellanic Clouds",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "अवलोकनयोग्य ब्रह्माण्डको व्यास करिब कति मानिन्छ?",
+    "a": "About 93 billion light years",
+    "cat": "1. Universe & Galaxies"
+  },
+  {
+    "q": "What is the source of energy of stars?",
+    "a": "Nuclear fusion (hydrogen fuses into helium)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Which star is nearest to the Earth?",
+    "a": "The Sun",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Which star is nearest to the Earth after the Sun?",
+    "a": "Proxima Centauri (about 4.24 light years away)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Which is the brightest star in the night sky?",
+    "a": "Sirius (the Dog Star)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Which colour of star indicates the highest surface temperature?",
+    "a": "Blue (or blue-white)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Which colour of star indicates the lowest surface temperature?",
+    "a": "Red",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Why do stars twinkle?",
+    "a": "Because of the refraction of starlight in the Earth's atmosphere",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "Why do planets not twinkle as much as stars?",
+    "a": "Planets appear as small discs (not point sources) so the variations average out",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the Sun classified as in the stellar spectral classification?",
+    "a": "A G-type main-sequence (yellow dwarf) star",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the name of the star that marks north in the sky?",
+    "a": "Polaris (the Pole Star, Dhruva Tara)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the final stage of a star with mass similar to the Sun?",
+    "a": "White dwarf",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the explosion of a massive star at the end of its life called?",
+    "a": "Supernova",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is left behind when a very massive star explodes as a supernova?",
+    "a": "A neutron star or a black hole",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is a rapidly rotating neutron star that emits beams of radiation called?",
+    "a": "Pulsar",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What stage will the Sun become after it uses up its hydrogen in about 5 billion years?",
+    "a": "Red giant",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is a star in the early stage of formation, before nuclear fusion starts, called?",
+    "a": "Protostar",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is a group of stars bound by gravity, such as the Pleiades, called?",
+    "a": "Star cluster",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the approximate number of stars in the Milky Way?",
+    "a": "100-400 billion",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What do we call a pair of stars orbiting a common centre of mass?",
+    "a": "Binary star",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "What is the 12-sign belt of constellations along the ecliptic called?",
+    "a": "Zodiac",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ताराहरूको ऊर्जाको स्रोत के हो?",
+    "a": "नाभिकीय संलयन (हाइड्रोजनबाट हेलियम बन्ने प्रक्रिया)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा नजिकको तारा कुन हो?",
+    "a": "सूर्य",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सूर्यपछि पृथ्वीको सबैभन्दा नजिकको तारा कुन हो?",
+    "a": "प्रोक्सिमा सेन्टौरी (करिब ४.२४ प्रकाश वर्ष टाढा)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "रातको आकाशमा सबैभन्दा चम्किलो देखिने तारा कुन हो?",
+    "a": "सिरियस (लुब्धक / व्याध तारा)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "कुन रङको तारा सबैभन्दा तातो हुन्छ?",
+    "a": "निलो (वा निलो-सेतो)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "कुन रङको तारा सबैभन्दा चिसो हुन्छ?",
+    "a": "रातो",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "तारा किन टिमटिम गर्छन्?",
+    "a": "वायुमण्डलमा ताराको प्रकाशको अपवर्तन हुने भएकाले",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ग्रह तारा जस्तो टिमटिम गर्दैनन् किन?",
+    "a": "ग्रह साना चक्का जस्ता देखिने भएकाले प्रकाशको उतारचढाव सरदर हुन्छ",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सूर्य कुन प्रकारको तारा हो?",
+    "a": "G-प्रकारको पहेँलो बौना (मुख्य शृङ्खलाको) तारा",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "उत्तर दिशा देखाउने तारा कुन हो?",
+    "a": "ध्रुवतारा (Polaris)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सूर्य जस्तो द्रव्यमान भएको ताराको अन्तिम अवस्था के हो?",
+    "a": "सेतो बौना (White dwarf)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "धेरै ठूला ताराको जीवनको अन्त्यमा हुने विस्फोटलाई के भनिन्छ?",
+    "a": "सुपरनोभा",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सुपरनोभा विस्फोटपछि के बाँकी रहन सक्छ?",
+    "a": "न्युट्रोन तारा वा ब्ल्याक होल",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "छिटो घुम्ने र विकिरणको किरण निकाल्ने न्युट्रोन तारालाई के भनिन्छ?",
+    "a": "पल्सर",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "करिब ५ अर्ब वर्षपछि सूर्यको हाइड्रोजन सकिएपछि यो कुन अवस्थामा पुग्छ?",
+    "a": "रातो दानव (Red giant)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "नाभिकीय संलयन सुरु हुनुअघिको तारा बन्ने प्रारम्भिक अवस्थालाई के भनिन्छ?",
+    "a": "प्रोटोस्टार",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "आकाशगंगा मिल्की वेमा तारा कति छन् (अनुमानित)?",
+    "a": "करिब १०० अर्बदेखि ४०० अर्ब",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "साझा केन्द्रको वरिपरि घुम्ने दुई ताराको जोडीलाई के भनिन्छ?",
+    "a": "युग्म तारा (Binary star)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "कृत्तिका (Pleiades) भनेको के हो?",
+    "a": "ताराहरूको समूह (तारा गुच्छा / Star cluster)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ताराहरू कुन क्रममा विकास हुन्छन् (सूर्य जस्तो तारा)?",
+    "a": "नेबुला → प्रोटोस्टार → मुख्य शृङ्खला → रातो दानव → सेतो बौना",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ओरायन तारामण्डलको रातो विशाल (supergiant) तारा कुन हो?",
+    "a": "Betelgeuse",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ओरायन तारामण्डलको निलो विशाल तारा कुन हो?",
+    "a": "Rigel",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "मृगशिरा (Orion) तारामण्डलको 'बेल्ट' मा कतिवटा तारा छन्?",
+    "a": "Three",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा नजिकको तारा प्रणाली कुन हो?",
+    "a": "Alpha Centauri system (includes Proxima Centauri)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "उत्तरी गोलार्द्धमा सबैभन्दा चम्किलो देखिने तारा कुन हो?",
+    "a": "Arcturus (in Bootes)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सिरियसपछि रातको आकाशको दोस्रो चम्किलो तारा कुन हो?",
+    "a": "Canopus",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "वृश्चिक (Scorpius) तारामण्डलको चम्किलो रातो तारा कुन हो?",
+    "a": "Antares",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "वृषभ (Taurus) तारामण्डलको चम्किलो रातो तारा कुन हो?",
+    "a": "Aldebaran",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ध्रुवतारा क्षितिजबाट जति कोणमा देखिन्छ, त्यो के बराबर हुन्छ?",
+    "a": "The observer's latitude",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ध्रुवतारा सधैं उत्तर ध्रुव ताराको स्थान किन होइन?",
+    "a": "Earth's axis slowly wobbles (precession), so the pole star changes over thousands of years",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ताराको वर्णक्रम वर्गीकरणका अक्षर क्रमशः तातोदेखि चिसोसम्म के हुन्?",
+    "a": "O, B, A, F, G, K, M",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सौर्यमण्डलबाहिरको ग्रहलाई के भनिन्छ?",
+    "a": "Exoplanet",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सूर्य जस्तो तारा वरिपरि पहिलो पटक पत्ता लागेको बाह्यग्रह कुन हो?",
+    "a": "51 Pegasi b (1995, Mayor and Queloz)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "बाह्यग्रह पत्ता लगाउने कारण सन् २०१९ मा नोबेल पुरस्कार पाउने वैज्ञानिक को हुन्?",
+    "a": "Michel Mayor and Didier Queloz (shared with James Peebles)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "तारा वरिपरि पानी तरल रूपमा रहन सक्ने क्षेत्रलाई के भनिन्छ?",
+    "a": "Habitable zone (Goldilocks zone)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "ग्लोबुलर क्लस्टर भनेको के हो?",
+    "a": "A dense spherical group of very old stars",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सेफिड परिवर्ती तारा किन उपयोगी छन्?",
+    "a": "Their pulsation period tells their true brightness, so they help measure distances",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "न्युट्रोन ताराको घनत्व कस्तो हुन्छ?",
+    "a": "Extremely high; a teaspoon of it would weigh billions of tons",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "सूर्यभन्दा धेरै गुणा ठूलो द्रव्यमान भएका र छिट्टै मर्ने ताराहरूलाई के भनिन्छ?",
+    "a": "Massive stars (they end as supernovae)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "तारालाई १० पार्सेकको मानक दूरीमा राख्दा हुने चमकलाई के भनिन्छ?",
+    "a": "Absolute magnitude (brightness at a standard distance of 10 parsecs)",
+    "cat": "2. Stars"
+  },
+  {
+    "q": "How old is the Sun, approximately?",
+    "a": "About 4.6 billion years",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which two gases make up most of the Sun?",
+    "a": "Hydrogen (about 73%) and helium (about 25%)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the approximate surface temperature of the Sun?",
+    "a": "About 5,500 degrees C (5,778 K)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the approximate temperature at the core of the Sun?",
+    "a": "About 15 million degrees C",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "How long does sunlight take to reach the Earth?",
+    "a": "About 8 minutes 20 seconds",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the approximate distance between the Earth and the Sun?",
+    "a": "About 149.6 million km (1 AU)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the visible surface of the Sun called?",
+    "a": "Photosphere",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which layer of the Sun lies just above the photosphere?",
+    "a": "Chromosphere",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the outermost layer of the Sun's atmosphere called?",
+    "a": "Corona",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "When is the Sun's corona best seen from the Earth?",
+    "a": "During a total solar eclipse",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What are the dark, cooler patches on the Sun's surface called?",
+    "a": "Sunspots",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the approximate length of the sunspot cycle?",
+    "a": "About 11 years",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is the continuous stream of charged particles flowing from the Sun called?",
+    "a": "Solar wind",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What natural light display near the poles is caused by solar wind interacting with the Earth's atmosphere?",
+    "a": "Aurora (Aurora Borealis in the north, Aurora Australis in the south)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What percentage of the total mass of the solar system is contained in the Sun?",
+    "a": "About 99.86%",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Approximately how many times larger than the Earth is the Sun in diameter?",
+    "a": "About 109 times",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "What is a sudden burst of energy from the Sun's surface called?",
+    "a": "Solar flare",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which model of the solar system places the Sun at the centre?",
+    "a": "Heliocentric model",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Who proposed the heliocentric model in 1543?",
+    "a": "Nicolaus Copernicus",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Who proposed the geocentric model that dominated until the 16th century?",
+    "a": "Claudius Ptolemy",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which Indian space mission, launched in September 2023, studies the Sun?",
+    "a": "Aditya-L1",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which NASA probe became the first to touch the Sun's corona?",
+    "a": "Parker Solar Probe",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Which part of the Sun is the region where nuclear fusion takes place?",
+    "a": "The core",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "Does the Sun rotate at the same speed at its equator and poles?",
+    "a": "No, it rotates faster at the equator (about 25 days) than near the poles (about 35 days)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको उमेर करिब कति हो?",
+    "a": "करिब ४.६ अर्ब वर्ष",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यमा सबैभन्दा बढी पाइने दुई ग्यास कुन कुन हुन्?",
+    "a": "हाइड्रोजन (करिब ७३%) र हेलियम (करिब २५%)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको सतहको तापक्रम करिब कति हुन्छ?",
+    "a": "करिब ५,५०० डिग्री सेल्सियस (५,७७८ केल्भिन)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको केन्द्र भागको तापक्रम करिब कति हुन्छ?",
+    "a": "करिब १.५ करोड डिग्री सेल्सियस",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको प्रकाश पृथ्वीमा पुग्न कति समय लाग्छ?",
+    "a": "करिब ८ मिनेट २० सेकेन्ड",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "पृथ्वी र सूर्यबीचको औसत दूरी कति हो?",
+    "a": "करिब १४.९६ करोड किमी (१ AU)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको देखिने सतहलाई के भनिन्छ?",
+    "a": "फोटोस्फियर (प्रकाशमण्डल)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको फोटोस्फियरभन्दा माथिको तहलाई के भनिन्छ?",
+    "a": "क्रोमोस्फियर (वर्णमण्डल)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको सबैभन्दा बाहिरी वायुमण्डललाई के भनिन्छ?",
+    "a": "कोरोना (किरीट)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको कोरोना पृथ्वीबाट कहिले राम्ररी देखिन्छ?",
+    "a": "पूर्ण सूर्यग्रहणको समयमा",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको सतहमा देखिने कालो, चिसो दाग/धब्बालाई के भनिन्छ?",
+    "a": "सनस्पट (सौर्य कलङ्क)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सनस्पटको चक्र करिब कति वर्षको हुन्छ?",
+    "a": "करिब ११ वर्ष",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यबाट निरन्तर निस्किने आवेशित कणको प्रवाहलाई के भनिन्छ?",
+    "a": "सौर्य वायु (Solar wind)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सौर्य वायु र पृथ्वीको वायुमण्डलको अन्तरक्रियाबाट ध्रुव क्षेत्रमा देखिने प्रकाशलाई के भनिन्छ?",
+    "a": "अरोरा (उत्तरमा अरोरा बोरियालिस, दक्षिणमा अरोरा अस्ट्रालिस)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सौर्यमण्डलको कुल द्रव्यमानमा सूर्यको हिस्सा करिब कति छ?",
+    "a": "करिब ९९.८६%",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको व्यास पृथ्वीको व्यासभन्दा करिब कति गुना ठूलो छ?",
+    "a": "करिब १०९ गुना",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको सतहबाट अचानक निस्कने ऊर्जाको विस्फोटलाई के भनिन्छ?",
+    "a": "सौर्य ज्वाला (Solar flare)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यलाई केन्द्रमा राखेर ग्रहहरू घुम्छन् भन्ने मोडललाई के भनिन्छ?",
+    "a": "सूर्यकेन्द्रित मोडल (Heliocentric)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यकेन्द्रित सिद्धान्त सन् १५४३ मा कसले प्रस्तुत गरे?",
+    "a": "निकोलस कोपरनिकस",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "पृथ्वीलाई केन्द्रमा राख्ने भूकेन्द्रित मोडलका प्रवर्तक को हुन्?",
+    "a": "क्लाउडियस टोलेमी",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको अध्ययन गर्न भारतले सन् २०२३ मा प्रक्षेपण गरेको मिसन कुन हो?",
+    "a": "आदित्य-एल१",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको कोरोनामा पुग्ने पहिलो नासाको यान कुन हो?",
+    "a": "पार्कर सोलार प्रोब",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यमा नाभिकीय संलयन हुने भाग कुन हो?",
+    "a": "केन्द्र भाग (कोर)",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्य आफ्नो अक्षमा सबै ठाउँमा उही गतिले घुम्छ कि घुम्दैन?",
+    "a": "घुम्दैन; भूमध्य रेखामा करिब २५ दिन र ध्रुव नजिक करिब ३५ दिन लाग्छ",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "सूर्यको आयतन पृथ्वीको आयतनभन्दा करिब कति गुना बढी छ?",
+    "a": "करिब १३ लाख गुना",
+    "cat": "3. The Sun"
+  },
+  {
+    "q": "How many planets are there in the solar system?",
+    "a": "Eight",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Name the eight planets in order from the Sun.",
+    "a": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets are called terrestrial (inner) planets?",
+    "a": "Mercury, Venus, Earth and Mars",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets are called Jovian (outer) planets?",
+    "a": "Jupiter, Saturn, Uranus and Neptune",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets are called gas giants?",
+    "a": "Jupiter and Saturn",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets are called ice giants?",
+    "a": "Uranus and Neptune",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "In which year did the IAU redefine the term 'planet' and reclassify Pluto?",
+    "a": "2006",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Name the five officially recognised dwarf planets.",
+    "a": "Ceres, Pluto, Haumea, Makemake and Eris",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which hypothesis explains the formation of the solar system from a rotating cloud of gas and dust?",
+    "a": "Nebular Hypothesis",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who proposed the Nebular Hypothesis in 1755 and 1796 respectively?",
+    "a": "Immanuel Kant (1755) and Pierre-Simon Laplace (1796)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who proposed the Planetesimal Hypothesis?",
+    "a": "Chamberlin and Moulton",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who proposed the Tidal (Encounter) Hypothesis?",
+    "a": "James Jeans and Harold Jeffreys",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who proposed the Binary Star Hypothesis for the origin of the solar system?",
+    "a": "H. N. Russell",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "When did the solar system form?",
+    "a": "About 4.6 billion years ago",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which belt of rocky bodies lies between Mars and Jupiter?",
+    "a": "Asteroid belt",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which region beyond Neptune contains icy bodies including Pluto?",
+    "a": "Kuiper Belt",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which hypothetical spherical shell far beyond the Kuiper Belt is the source of long-period comets?",
+    "a": "Oort Cloud",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "What shape are the orbits of planets according to Kepler's first law?",
+    "a": "Elliptical, with the Sun at one focus",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "What does Kepler's second law state?",
+    "a": "A line joining a planet to the Sun sweeps equal areas in equal times",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "What does Kepler's third law relate?",
+    "a": "The square of the orbital period is proportional to the cube of the average distance from the Sun",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who formulated the law of universal gravitation?",
+    "a": "Isaac Newton",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Who first used a telescope to observe the Moons of Jupiter in 1610?",
+    "a": "Galileo Galilei",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets have no natural satellites (moons)?",
+    "a": "Mercury and Venus",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planet rotates in the opposite direction (east to west) to most planets?",
+    "a": "Venus (also Uranus rotates on its side)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which planets are visible to the naked eye?",
+    "a": "Mercury, Venus, Mars, Jupiter and Saturn",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which two planets lie inside the Earth's orbit?",
+    "a": "Mercury and Venus (inferior planets)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सौर्यमण्डलमा कतिवटा ग्रह छन्?",
+    "a": "आठ",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सूर्यबाट नजिकदेखि टाढासम्म ग्रहहरूको क्रम लेख्नुहोस्।",
+    "a": "बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण, वरुण",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "पार्थिव (आन्तरिक) ग्रहहरू कुन कुन हुन्?",
+    "a": "बुध, शुक्र, पृथ्वी र मंगल",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "बृहत् (बाह्य) ग्रहहरू कुन कुन हुन्?",
+    "a": "बृहस्पति, शनि, अरुण र वरुण",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "ग्यास दानव (Gas giants) कुन कुन ग्रह हुन्?",
+    "a": "बृहस्पति र शनि",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "हिम दानव (Ice giants) कुन कुन ग्रह हुन्?",
+    "a": "अरुण र वरुण",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "अन्तर्राष्ट्रिय खगोल संघले कुन वर्ष ग्रहको परिभाषा नयाँ बनाई प्लुटोलाई बौना ग्रह घोषणा गर्‍यो?",
+    "a": "सन् २००६",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "मान्यता प्राप्त पाँच बौना ग्रहका नाम लेख्नुहोस्।",
+    "a": "सेरेस, प्लुटो, हाउमिया, माकेमाके र इरिस",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "कुन सिद्धान्तले सौर्यमण्डल गुडिरहेको ग्यास र धुलोको बादलबाट बनेको भन्छ?",
+    "a": "निहारिका परिकल्पना (Nebular Hypothesis)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "निहारिका परिकल्पना कसले र कहिले दिए?",
+    "a": "इमानुएल कान्ट (१७५५) र पियरे-साइमन ल्याप्लास (१७९६)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "ग्रहाणु परिकल्पना (Planetesimal) का प्रस्तावक को हुन्?",
+    "a": "चेम्बरलिन र मोल्टन",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "ज्वारीय (टाइडल) परिकल्पनाका प्रस्तावक को हुन्?",
+    "a": "जेम्स जीन्स र हेरोल्ड जेफ्रिज",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सौर्यमण्डलको उत्पत्तिसम्बन्धी युग्म तारा परिकल्पना कसले दिए?",
+    "a": "एच. एन. रसेल",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सौर्यमण्डल करिब कति वर्षअघि बनेको मानिन्छ?",
+    "a": "करिब ४.६ अर्ब वर्ष",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "मंगल र बृहस्पतिबीच रहेको चट्टानी पिण्डहरूको पट्टीलाई के भनिन्छ?",
+    "a": "क्षुद्रग्रह पेटी (Asteroid belt)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "वरुणभन्दा पर रहेको प्लुटो लगायतका हिउँ तथा चट्टानका पिण्ड भएको क्षेत्र कुन हो?",
+    "a": "कुइपर पेटी (Kuiper Belt)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "लामो अवधिका पुच्छ्रे ताराहरूको स्रोत मानिने काल्पनिक गोलाकार क्षेत्र कुन हो?",
+    "a": "ऊर्ट बादल (Oort Cloud)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "केप्लरको पहिलो नियमअनुसार ग्रहहरूको कक्षा कस्तो हुन्छ?",
+    "a": "दीर्घवृत्ताकार, सूर्य एउटा नाभिमा हुन्छ",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "केप्लरको दोस्रो नियमले के भन्छ?",
+    "a": "सूर्य र ग्रहलाई जोड्ने रेखाले बराबर समयमा बराबर क्षेत्रफल पार गर्छ",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "केप्लरको तेस्रो नियमले के सम्बन्ध देखाउँछ?",
+    "a": "परिक्रमा अवधिको वर्ग सूर्यबाट औसत दूरीको घनसँग समानुपाती हुन्छ",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सर्वव्यापी गुरुत्वाकर्षणको नियम कसले दिए?",
+    "a": "आइज्याक न्युटन",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "खगोल अवलोकनमा पहिलो पटक दूरबिनको प्रयोग (सन् १६०९-१०) कसले गरे?",
+    "a": "गेलिलियो गेलिलाई",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "कुन दुई ग्रहको कुनै प्राकृतिक उपग्रह छैन?",
+    "a": "बुध र शुक्र",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "अरू ग्रहको विपरीत दिशामा (पूर्वबाट पश्चिम) घुम्ने ग्रह कुन हो?",
+    "a": "शुक्र (अरुण पनि ढल्किएर घुम्छ)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "नाङ्गो आँखाले देख्न सकिने ग्रहहरू कुन कुन हुन्?",
+    "a": "बुध, शुक्र, मंगल, बृहस्पति र शनि",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "पृथ्वीको कक्षाभित्र पर्ने दुई ग्रह कुन कुन हुन्?",
+    "a": "बुध र शुक्र (आन्तरिक ग्रह)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "इरिस बौना ग्रहको खोज कहिले भयो र यसको महत्त्व के थियो?",
+    "a": "सन् २००५; यसले प्लुटोको वर्गीकरण बहसलाई तीव्र बनायो",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "प्लुटो सौर्यमण्डलको कुन क्षेत्रमा पर्छ?",
+    "a": "कुइपर पेटी",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "सौर्यमण्डलका ग्रहहरू सूर्यलाई कुन दिशामा परिक्रमा गर्छन् (माथिबाट हेर्दा)?",
+    "a": "घडीको उल्टो दिशामा (पश्चिमबाट पूर्व)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "वरुण ग्रह सूर्यबाट करिब कति टाढा छ?",
+    "a": "करिब ३० AU (करिब ४.५ अर्ब किमी)",
+    "cat": "4. Solar System (General)"
+  },
+  {
+    "q": "Which is the largest planet in the solar system?",
+    "a": "Jupiter",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the smallest planet in the solar system?",
+    "a": "Mercury",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is nearest to the Sun?",
+    "a": "Mercury",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is farthest from the Sun?",
+    "a": "Neptune",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the hottest planet in the solar system?",
+    "a": "Venus (about 465 degrees C)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Why is Venus hotter than Mercury even though it is farther from the Sun?",
+    "a": "Its thick carbon dioxide atmosphere causes a strong greenhouse effect",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet has the lowest recorded minimum temperature in the solar system?",
+    "a": "Uranus",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is the densest in the solar system?",
+    "a": "Earth",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is the least dense (less dense than water)?",
+    "a": "Saturn",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet has the shortest day?",
+    "a": "Jupiter (about 9 hours 56 minutes)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet has the longest day?",
+    "a": "Venus (rotation takes about 243 Earth days)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet's day is longer than its year?",
+    "a": "Venus (243-day rotation, 225-day orbit)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is known as Earth's twin?",
+    "a": "Venus (similar in size and mass)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is called the Morning Star or Evening Star?",
+    "a": "Venus",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is called the Red Planet and why?",
+    "a": "Mars, because of iron oxide (rust) on its surface",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is called the Blue Planet?",
+    "a": "Earth",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is known as the Ringed Planet?",
+    "a": "Saturn",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "What are the two moons of Mars?",
+    "a": "Phobos and Deimos",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the tallest volcano in the solar system and on which planet is it?",
+    "a": "Olympus Mons on Mars (about 22 km high)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the largest canyon system in the solar system, found on Mars?",
+    "a": "Valles Marineris",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "What is the Great Red Spot?",
+    "a": "A giant, long-lived storm on Jupiter",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Name the four Galilean moons of Jupiter.",
+    "a": "Io, Europa, Ganymede and Callisto",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the largest moon in the solar system?",
+    "a": "Ganymede (moon of Jupiter)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the largest moon of Saturn and the second largest in the solar system?",
+    "a": "Titan",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which moon of Saturn has a thick atmosphere?",
+    "a": "Titan",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet's axis is tilted about 98 degrees so that it appears to rotate on its side?",
+    "a": "Uranus",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Who discovered Uranus in 1781?",
+    "a": "William Herschel",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which gas gives Uranus and Neptune their blue-green colour?",
+    "a": "Methane",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet was discovered in 1846 through mathematical predictions?",
+    "a": "Neptune (predicted by Le Verrier and Adams)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the largest moon of Neptune and has a retrograde orbit?",
+    "a": "Triton",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet has the strongest winds in the solar system?",
+    "a": "Neptune",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Mercury take to orbit the Sun?",
+    "a": "88 Earth days",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Venus take to orbit the Sun?",
+    "a": "About 225 Earth days",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Mars take to orbit the Sun?",
+    "a": "About 687 Earth days",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Jupiter take to orbit the Sun?",
+    "a": "About 11.9 Earth years",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Saturn take to orbit the Sun?",
+    "a": "About 29.5 Earth years",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Uranus take to orbit the Sun?",
+    "a": "About 84 Earth years",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Approximately how long does Neptune take to orbit the Sun?",
+    "a": "About 165 Earth years",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is closest to the Earth at its nearest approach?",
+    "a": "Venus",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet's atmosphere is mostly carbon dioxide?",
+    "a": "Venus (and Mars)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "What are Saturn's rings mainly made of?",
+    "a": "Ice particles and rock debris",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Who discovered Pluto in 1930?",
+    "a": "Clyde Tombaugh",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "In which year did NASA's New Horizons fly past Pluto?",
+    "a": "2015",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which is the largest object in the asteroid belt and is also a dwarf planet?",
+    "a": "Ceres",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is named after the Roman god of the sea?",
+    "a": "Neptune",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is named after the Roman god of war?",
+    "a": "Mars",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "Which planet is named after the Roman messenger of the gods?",
+    "a": "Mercury",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा ठूलो ग्रह कुन हो?",
+    "a": "बृहस्पति",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा सानो ग्रह कुन हो?",
+    "a": "बुध",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सूर्यको सबैभन्दा नजिकको ग्रह कुन हो?",
+    "a": "बुध",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सूर्यबाट सबैभन्दा टाढाको ग्रह कुन हो?",
+    "a": "वरुण",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा तातो ग्रह कुन हो?",
+    "a": "शुक्र (करिब ४६५ डिग्री सेल्सियस)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्र बुधभन्दा सूर्यबाट टाढा भए पनि किन बढी तातो छ?",
+    "a": "यसको बाक्लो कार्बन डाइअक्साइड वायुमण्डलले तीव्र हरितगृह प्रभाव गर्छ",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सबैभन्दा कम न्यूनतम तापक्रम अभिलेख भएको ग्रह कुन हो?",
+    "a": "अरुण",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सबैभन्दा बढी घनत्व भएको ग्रह कुन हो?",
+    "a": "पृथ्वी",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "पानीभन्दा पनि कम घनत्व भएको ग्रह कुन हो?",
+    "a": "शनि",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सबैभन्दा छोटो दिन हुने ग्रह कुन हो?",
+    "a": "बृहस्पति (करिब ९ घण्टा ५६ मिनेट)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सबैभन्दा लामो दिन हुने ग्रह कुन हो?",
+    "a": "शुक्र (परिभ्रमण करिब २४३ पृथ्वी दिन)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रहको एक दिन उसको एक वर्षभन्दा लामो हुन्छ?",
+    "a": "शुक्र (परिभ्रमण २४३ दिन, परिक्रमा २२५ दिन)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "पृथ्वीको जुम्ल्याहा ग्रह कुन हो?",
+    "a": "शुक्र (आकार र द्रव्यमान लगभग उस्तै)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "साँझको तारा वा बिहानको तारा भनिने ग्रह कुन हो?",
+    "a": "शुक्र",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्रको बादल मुख्यतः कुन पदार्थको हुन्छ?",
+    "a": "सल्फ्युरिक एसिडको",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "रातो ग्रह कुन हो र किन?",
+    "a": "मंगल; सतहमा आइरन अक्साइड (खिया) भएकाले",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहको वायुमण्डलमा सबैभन्दा बढी कुन ग्यास हुन्छ?",
+    "a": "कार्बन डाइअक्साइड (करिब ९५%)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "नीलो ग्रह कुन ग्रहलाई भनिन्छ?",
+    "a": "पृथ्वी",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "छल्ला भएको ग्रह भनेर कुन ग्रहलाई चिनिन्छ?",
+    "a": "शनि",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहका दुई उपग्रहका नाम के हुन्?",
+    "a": "फोबोस र डिमोस",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा अग्लो ज्वालामुखी कुन हो र कुन ग्रहमा छ?",
+    "a": "ओलिम्पस मन्स, मंगल ग्रहमा (करिब २२ किमी अग्लो)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहमा रहेको विशाल घाँटी प्रणाली (क्यानियन) को नाम के हो?",
+    "a": "भ्यालेस मरिनेरिस",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिमा देखिने विशाल आँधीलाई के भनिन्छ?",
+    "a": "महान् रातो धब्बा (Great Red Spot)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिका चार ग्यालिलियन चन्द्रमाका नाम लेख्नुहोस्।",
+    "a": "आयो, युरोपा, गेनिमिड र क्यालिस्टो",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पति मुख्यतः कुन दुई ग्यासले बनेको हुन्छ?",
+    "a": "हाइड्रोजन र हेलियम",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिको द्रव्यमान अन्य सबै ग्रहको कुल द्रव्यमानको करिब कति गुना छ?",
+    "a": "करिब २.५ गुना",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा ठूलो उपग्रह कुन हो?",
+    "a": "गेनिमिड (बृहस्पतिको)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिको सबैभन्दा ठूलो उपग्रह तथा सौर्यमण्डलकै दोस्रो ठूलो उपग्रह कुन हो?",
+    "a": "टाइटन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बाक्लो वायुमण्डल भएको शनिको उपग्रह कुन हो?",
+    "a": "टाइटन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिको छल्ला मुख्यतः केले बनेको हुन्छ?",
+    "a": "हिउँका कण र चट्टानका टुक्राहरूले",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "आफ्नो अक्षमा करिब ९८ डिग्री ढल्किएर घुम्ने ग्रह कुन हो?",
+    "a": "अरुण",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सन् १७८१ मा अरुण ग्रह कसले पत्ता लगाए?",
+    "a": "विलियम हर्शेल",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुण र वरुणको निलो-हरियो रङको कारण कुन ग्यास हो?",
+    "a": "मिथेन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सन् १८४६ मा गणितीय गणनाको आधारमा पत्ता लागेको ग्रह कुन हो?",
+    "a": "वरुण (ल्वेरिए र एडम्सको गणना)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "वरुणको सबैभन्दा ठूलो उपग्रह तथा उल्टो दिशामा घुम्ने उपग्रह कुन हो?",
+    "a": "ट्राइटन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलमा सबैभन्दा तीव्र हावा चल्ने ग्रह कुन हो?",
+    "a": "वरुण",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बुधले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "८८ पृथ्वी दिन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्रले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब २२५ पृथ्वी दिन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगलले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब ६८७ पृथ्वी दिन",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब ११.९ पृथ्वी वर्ष",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब २९.५ पृथ्वी वर्ष",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुणले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब ८४ पृथ्वी वर्ष",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "वरुणले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब १६५ पृथ्वी वर्ष",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा नजिक आइपुग्ने ग्रह कुन हो (निकटतम बिन्दुमा)?",
+    "a": "शुक्र",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बुधको दिन र रातको तापक्रम करिब कति हुन्छ?",
+    "a": "दिउँसो करिब ४३० डिग्री सेल्सियस र राति करिब −१८० डिग्री सेल्सियस",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्रको सतहको वायुदाब पृथ्वीको तुलनामा करिब कति गुना हुन्छ?",
+    "a": "करिब ९० गुना",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "प्लुटो सन् १९३० मा कसले पत्ता लगाए?",
+    "a": "क्लाइड टोम्बो",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "नासाको न्यु होराइजन्सले प्लुटोको नजिकबाट अवलोकन कहिले गर्‍यो?",
+    "a": "सन् २०१५",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "क्षुद्रग्रह पेटीको सबैभन्दा ठूलो पिण्ड र बौना ग्रह कुन हो?",
+    "a": "सेरेस",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सेरेस कसले र कहिले पत्ता लगाए?",
+    "a": "ग्युसेप्पे पियाजी, सन् १८०१",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "छल्ला भएका ग्रह कतिवटा छन् र कुन कुन?",
+    "a": "चार: बृहस्पति, शनि, अरुण र वरुण",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "रोमन समुद्रका देवताको नामबाट नाम राखिएको ग्रह कुन हो?",
+    "a": "वरुण (नेप्च्युन)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "रोमन युद्धका देवताको नामबाट नाम राखिएको ग्रह कुन हो?",
+    "a": "मंगल (मार्स)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहको गुरुत्वाकर्षण पृथ्वीको तुलनामा करिब कति छ?",
+    "a": "करिब ३८%",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुण र वरुण दुवैको भ्रमण गर्ने एक मात्र यान कुन हो?",
+    "a": "भ्वायजर २",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रह सूर्यको वरिपरि सबैभन्दा छिटो घुम्छ?",
+    "a": "Mercury",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रह सूर्यको वरिपरि सबैभन्दा ढिलो घुम्छ?",
+    "a": "Neptune",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बुधको सतहको सबैभन्दा ठूलो खाडलको नाम के हो?",
+    "a": "Caloris Basin",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सन् २०११ मा बुधको कक्षामा पुगेको नासाको यान कुन हो?",
+    "a": "MESSENGER",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बुध ग्रहका लागि ESA र JAXA ले संयुक्त रूपमा पठाएको मिसन कुन हो?",
+    "a": "BepiColombo (launched 2018)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्र ग्रहमा सूर्य कुन दिशामा उदाउँछ?",
+    "a": "West (because Venus rotates retrograde)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शुक्र ग्रहको सतह रडारले नक्सांकन गर्ने नासाको यान कुन हो?",
+    "a": "Magellan (1990s)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहको एक दिन (sol) करिब कति लामो हुन्छ?",
+    "a": "About 24 hours 40 minutes",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहको अक्षको झुकाव करिब कति हो?",
+    "a": "About 25 degrees (so Mars has seasons similar to Earth)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगलको ध्रुवीय टुप्पामा के पाइन्छ?",
+    "a": "Ice (water ice and frozen carbon dioxide)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगलमा पठाइएको नासाको पहिलो सफल रोभर (सन् १९९७, Pathfinder सँग) कुन हो?",
+    "a": "Sojourner",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सन् २००४ मा मंगलमा अवतरण गरेका दुई जुम्ल्याहा रोभर कुन कुन हुन्?",
+    "a": "Spirit and Opportunity",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सन् १९७६ मा मंगलमा अवतरण गरेका नासाका यान कुन हुन्?",
+    "a": "Viking 1 and Viking 2",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "मंगल ग्रहका उपग्रह कसरी बनेका हुन सक्छन् भन्ने मान्यता के छ?",
+    "a": "They may be captured asteroids",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा बलियो चुम्बकीय क्षेत्र भएको ग्रह कुन हो?",
+    "a": "Jupiter",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिको व्यास पृथ्वीको व्यासभन्दा करिब कति गुना ठूलो छ?",
+    "a": "About 11 times",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलमा सबैभन्दा बढी ज्वालामुखी सक्रिय पिण्ड कुन हो?",
+    "a": "Io (moon of Jupiter)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन उपग्रहमा सतहमुनि समुद्र हुन सक्ने ठानिन्छ (बृहस्पतिको)?",
+    "a": "Europa",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन उपग्रह आफ्नै चुम्बकीय क्षेत्र भएको एक मात्र उपग्रह हो?",
+    "a": "Ganymede",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिको छल्ला पहिलो पटक कुन यानले देख्यो?",
+    "a": "Voyager 1 (1979)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "बृहस्पतिको कुन विशेषताका कारण यो छिटो घुम्दा बीचमा फुलेको देखिन्छ?",
+    "a": "Very fast rotation (about 10 hours per day)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनि ग्रहको व्यास पृथ्वीको व्यासभन्दा करिब कति गुना ठूलो छ?",
+    "a": "About 9.5 times",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिको उत्तरी ध्रुवमा देखिने अनौठो आँधीको आकृति के हो?",
+    "a": "A hexagon-shaped jet stream (polar hexagon)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिको कुन उपग्रहबाट पानीका फोहोरा (geysers) निस्कन्छन्?",
+    "a": "Enceladus",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "शनिको एक दिन करिब कति लामो हुन्छ?",
+    "a": "About 10 hours 33 minutes",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुण ग्रहको नजिकबाट अवलोकन गर्ने एक मात्र यान र वर्ष कुन हो?",
+    "a": "Voyager 2 (1986)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुणका उपग्रहका नाम प्रायः कसका कृतिका पात्रबाट राखिएका छन्?",
+    "a": "William Shakespeare and Alexander Pope",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "अरुण ग्रहका छल्ला कुन वर्ष पत्ता लागे?",
+    "a": "1977",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "वरुण ग्रहको नजिकबाट अवलोकन गर्ने एक मात्र यान र वर्ष कुन हो?",
+    "a": "Voyager 2 (1989)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "वरुण पत्ता लागेपछि पहिलो पूर्ण परिक्रमा कुन वर्ष सकेको मानिन्छ?",
+    "a": "2011",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "प्लुटोको सबैभन्दा ठूलो उपग्रहको नाम के हो?",
+    "a": "Charon",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "प्लुटोको सतहमा देखिने मुटु आकारको क्षेत्रको नाम के हो?",
+    "a": "Tombaugh Regio",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "प्लुटोले सूर्यलाई एक पटक परिक्रमा गर्न करिब कति वर्ष लाग्छ?",
+    "a": "About 248 Earth years",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन बौना ग्रह प्लुटोभन्दा धेरै द्रव्यमान भएको मानिन्छ?",
+    "a": "Eris",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रहको अक्षीय झुकाव सबैभन्दा कम छ?",
+    "a": "Mercury (about 0.03 degrees)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रहमा सबैभन्दा बढी गुरुत्वाकर्षण छ?",
+    "a": "Jupiter (about 2.5 times Earth's)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "औसतमा समयको हिसाबले पृथ्वीको सबैभन्दा नजिक रहने ग्रह कुन हो?",
+    "a": "Mercury (Venus is closest only at its nearest approach)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रहमा चुम्बकीय क्षेत्र लगभग छैन?",
+    "a": "Venus (also Mars has only a weak, patchy field)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "सौर्यमण्डलको सबैभन्दा ठूलो पार्थिव (चट्टानी) ग्रह कुन हो?",
+    "a": "Earth",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "कुन ग्रहको कक्षा सबैभन्दा बढी दीर्घवृत्ताकार (eccentric) छ?",
+    "a": "Mercury (among the eight planets)",
+    "cat": "5. Planets"
+  },
+  {
+    "q": "What is the Moon's relation to the Earth?",
+    "a": "It is Earth's only natural satellite",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the average distance between the Earth and the Moon?",
+    "a": "About 384,400 km",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "How long does moonlight take to reach the Earth?",
+    "a": "About 1.3 seconds",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Compared with Earth's, how strong is the Moon's gravity?",
+    "a": "About one-sixth (1/6)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Why do we always see the same face of the Moon?",
+    "a": "The Moon's rotation period equals its revolution period (synchronous rotation)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "How long does the Moon take to revolve once around the Earth (sidereal month)?",
+    "a": "About 27.3 days",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the length of the lunar phase cycle (synodic month)?",
+    "a": "About 29.5 days",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which theory best explains the formation of the Moon?",
+    "a": "Giant Impact Hypothesis (a Mars-sized body, Theia, hit the early Earth)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Does the Moon have an atmosphere?",
+    "a": "No, it has virtually no atmosphere",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Does the Moon produce its own light?",
+    "a": "No, it reflects sunlight",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What are the dark, flat plains on the Moon called?",
+    "a": "Maria (lunar seas)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Who was the first human to walk on the Moon?",
+    "a": "Neil Armstrong",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "In which year and on what date did Apollo 11 land on the Moon?",
+    "a": "20 July 1969",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Who was the second person to walk on the Moon?",
+    "a": "Buzz Aldrin",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the phase of the Moon when it is completely lit as seen from the Earth?",
+    "a": "Full moon (Purnima)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the phase of the Moon when it is not visible from the Earth?",
+    "a": "New moon (Aunsi)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the phase between new moon and full moon when the lit part is growing called?",
+    "a": "Waxing",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the phase between full moon and new moon when the lit part is shrinking called?",
+    "a": "Waning",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which Indian mission discovered evidence of water molecules on the Moon in 2008?",
+    "a": "Chandrayaan-1",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which mission made India the first country to land near the Moon's south polar region?",
+    "a": "Chandrayaan-3 (23 August 2023)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "How many countries had achieved a soft landing on the Moon before India (Chandrayaan-3)?",
+    "a": "Three: the USSR, the USA and China",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which was the first artificial satellite launched in the world?",
+    "a": "Sputnik 1 (USSR, 4 October 1957)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which animal was the first to orbit the Earth aboard Sputnik 2?",
+    "a": "Laika, a dog",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the name of India's first artificial satellite, launched in 1975?",
+    "a": "Aryabhata",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What is the term for a satellite that stays above the same point on the Equator?",
+    "a": "Geostationary satellite (orbit about 35,786 km above the Equator)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "At what approximate altitude does the International Space Station (ISS) orbit?",
+    "a": "About 400 km",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "How long does the ISS take to orbit the Earth once?",
+    "a": "About 90 minutes",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which space telescope was launched in 1990 and orbits the Earth?",
+    "a": "Hubble Space Telescope",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Which space telescope was launched on 25 December 2021?",
+    "a": "James Webb Space Telescope (JWST)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "Why does the Moon's surface temperature vary so much (about -173 C to 127 C)?",
+    "a": "Because it has no atmosphere to trap or distribute heat",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पृथ्वीको प्राकृतिक उपग्रह कुन हो?",
+    "a": "चन्द्रमा (एउटै)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पृथ्वी र चन्द्रमाबीचको औसत दूरी कति हो?",
+    "a": "करिब ३,८४,४०० किमी",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको प्रकाश पृथ्वीमा पुग्न कति समय लाग्छ?",
+    "a": "करिब १.३ सेकेन्ड",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको गुरुत्वाकर्षण पृथ्वीको तुलनामा कति हुन्छ?",
+    "a": "करिब एक-छैटौं (१/६)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "हामीले चन्द्रमाको सधैं एउटै भाग मात्र किन देख्छौँ?",
+    "a": "चन्द्रमाको परिभ्रमण र परिक्रमा अवधि बराबर (करिब २७.३ दिन) भएकाले",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाले पृथ्वीलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब २७.३ दिन",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको कलाचक्र (औँसीदेखि औँसीसम्म) कति दिनमा पूरा हुन्छ?",
+    "a": "करिब २९.५ दिन",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको उत्पत्तिबारे सबैभन्दा मान्य सिद्धान्त कुन हो?",
+    "a": "विशाल प्रहार परिकल्पना (थेया नामक पिण्ड पृथ्वीसँग ठोक्किएको)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा वायुमण्डल छ कि छैन?",
+    "a": "छैन (नगण्य)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमा आफैले प्रकाश निकाल्छ कि परावर्तन गर्छ?",
+    "a": "सूर्यको प्रकाश परावर्तन गर्छ",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा देखिने कालो, समतल भागलाई के भनिन्छ?",
+    "a": "मारिया (चन्द्र समुद्र)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा पाइला राख्ने पहिलो मानव को हुन्?",
+    "a": "नील आर्मस्ट्रङ",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "अपोलो ११ चन्द्रमामा कहिले अवतरण गर्‍यो?",
+    "a": "२० जुलाई १९६९",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा पाइला राख्ने दोस्रो मानव को हुन्?",
+    "a": "बज एल्ड्रिन",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "अपोलो ११ का तीन अन्तरिक्ष यात्री को को थिए?",
+    "a": "नील आर्मस्ट्रङ, बज एल्ड्रिन र माइकल कोलिन्स",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा पाइला राख्ने अन्तिम मानव (अपोलो १७, सन् १९७२) मध्ये एक को थिए?",
+    "a": "युजिन सर्नान",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पूर्णिमाको दिन चन्द्रमाको अवस्था कस्तो देखिन्छ?",
+    "a": "पूरै उज्यालो (पूर्ण चन्द्रमा)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "औँसीको दिन चन्द्रमा किन देखिँदैन?",
+    "a": "चन्द्रमाको उज्यालो भाग पृथ्वीतर्फ नफर्केको हुन्छ",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "औँसीदेखि पूर्णिमासम्म चन्द्रमाको उज्यालो भाग बढ्ने अवस्थालाई के भनिन्छ?",
+    "a": "शुक्ल पक्ष (Waxing)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पूर्णिमादेखि औँसीसम्म चन्द्रमाको उज्यालो भाग घट्दै जाने अवस्थालाई के भनिन्छ?",
+    "a": "कृष्ण पक्ष (Waning)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "सन् २००८ मा चन्द्रमामा पानीका अणु फेला पार्ने भारतको मिसन कुन हो?",
+    "a": "चन्द्रयान-१",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रयान-३ ले चन्द्रमाको दक्षिणी ध्रुव क्षेत्र नजिक कहिले अवतरण गर्‍यो?",
+    "a": "२३ अगस्ट २०२३",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रयान-३ का ल्यान्डर र रोभरको नाम के हो?",
+    "a": "ल्यान्डर 'विक्रम' र रोभर 'प्रज्ञान'",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा सफ्ट ल्यान्डिङ गर्ने भारत भन्दा अघिका देश कुन कुन हुन्?",
+    "a": "सोभियत संघ, अमेरिका र चीन",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा पुग्ने पहिलो मानवरहित यान (सन् १९५९) कुन हो?",
+    "a": "लुना २ (सोभियत संघ)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा सफ्ट ल्यान्डिङ गर्ने पहिलो यान (सन् १९६६) कुन हो?",
+    "a": "लुना ९ (सोभियत संघ)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "विश्वको पहिलो कृत्रिम उपग्रह कुन हो?",
+    "a": "स्पुतनिक १ (सोभियत संघ, ४ अक्टोबर १९५७)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "स्पुतनिक २ मा पृथ्वी परिक्रमा गर्ने पहिलो जीव कुन थियो?",
+    "a": "लाइका नामक कुकुर",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "भारतको पहिलो कृत्रिम उपग्रह कुन हो?",
+    "a": "आर्यभट्ट (सन् १९७५)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "नेपालको पहिलो उपग्रह भनेर चिनिएको कुन हो र कहिले प्रक्षेपण भयो?",
+    "a": "नेपालीसेट-१ (अभियान-१), सन् २०१९ (२०७६ साल)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "भूस्थिर उपग्रह (Geostationary) भनेको के हो र यो पृथ्वीबाट कति उचाइमा हुन्छ?",
+    "a": "भूमध्य रेखाको माथि एउटै बिन्दुमा स्थिर देखिने उपग्रह; करिब ३५,७८६ किमी उचाइमा",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशन (ISS) पृथ्वीबाट करिब कति उचाइमा परिक्रमा गर्छ?",
+    "a": "करिब ४०० किमी",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "ISS ले पृथ्वीलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "करिब ९० मिनेट",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "सन् १९९० मा प्रक्षेपण गरिएको पृथ्वी परिक्रमा गर्ने दूरबिन कुन हो?",
+    "a": "हब्बल स्पेस टेलिस्कोप",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "२५ डिसेम्बर २०२१ मा प्रक्षेपण गरिएको अन्तरिक्ष दूरबिन कुन हो?",
+    "a": "जेम्स वेब स्पेस टेलिस्कोप (JWST)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको सतहको तापक्रम (−१७३ देखि १२७ डिग्री सेल्सियस) किन यति धेरै फरक हुन्छ?",
+    "a": "वायुमण्डल नभएकाले ताप सन्तुलन गर्न सक्दैन",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको व्यास पृथ्वीको व्यासको करिब कति भाग हो?",
+    "a": "करिब एक-चौथाइ (करिब २७%)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको सबैभन्दा ठूलो खाडल (basin) कुन हो?",
+    "a": "South Pole-Aitken basin",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमा पृथ्वीबाट प्रत्येक वर्ष करिब कति टाढा जाँदैछ?",
+    "a": "About 3.8 cm per year",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको सतहमा बिछ्याइएको धुलो र चट्टानको टुक्राको तहलाई के भनिन्छ?",
+    "a": "Regolith",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमा प्रत्येक दिन करिब कति ढिलो उदाउँछ?",
+    "a": "About 50 minutes",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको कक्षा पृथ्वीको कक्षासँग कति डिग्री ढल्केको छ?",
+    "a": "About 5 degrees",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा नजिक चन्द्रमा पुग्ने बिन्दुलाई के भनिन्छ?",
+    "a": "Perigee (about 363,000 km)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पृथ्वीबाट सबैभन्दा टाढा चन्द्रमा पुग्ने बिन्दुलाई के भनिन्छ?",
+    "a": "Apogee (about 405,000 km)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "पूर्णिमाको दिन चन्द्रमा पृथ्वीको सबैभन्दा नजिक हुँदा देखिने ठूलो चन्द्रमालाई के भनिन्छ?",
+    "a": "Supermoon",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "एउटै महिनामा दोस्रो पूर्णिमा पर्दा त्यसलाई के भनिन्छ?",
+    "a": "Blue Moon",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा एउटा दिन (घाम लागेको अवधि) करिब कति लामो हुन्छ?",
+    "a": "About 14 Earth days (followed by about 14 days of night)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको सतहमा गुरुत्वीय त्वरण कति हुन्छ?",
+    "a": "About 1.62 m/s squared",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाबाट उम्कन चाहिने पलायन वेग कति हुन्छ?",
+    "a": "About 2.38 km/s",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको द्रव्यमान पृथ्वीको द्रव्यमानको करिब कति भाग हो?",
+    "a": "About 1/81",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "सन् २०२० मा चन्द्रमाबाट नमुना ल्याउने चिनियाँ मिसन कुन हो?",
+    "a": "Chang'e-5",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "सन् २०२४ मा चन्द्रमाको पछिल्लो भागबाट नमुना ल्याउने चिनियाँ मिसन कुन हो?",
+    "a": "Chang'e-6",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रयान-२ सन् २०१९ मा कस्तो भयो?",
+    "a": "The orbiter worked, but the Vikram lander crashed during landing",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमामा सफ्ट ल्यान्डिङ गर्ने पाँचौँ देश (सन् २०२४) कुन हो?",
+    "a": "Japan (SLIM lander)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाले आफ्नो परिक्रमा र परिभ्रमण बराबर हुने अवस्थालाई के भनिन्छ?",
+    "a": "Tidal locking (synchronous rotation)",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "चन्द्रमाको सतहमा आकाश किन कालो देखिन्छ?",
+    "a": "There is no atmosphere to scatter sunlight",
+    "cat": "6. Moon & Satellites"
+  },
+  {
+    "q": "What are asteroids?",
+    "a": "Small rocky or metallic bodies orbiting the Sun, mostly between Mars and Jupiter",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What is a meteoroid?",
+    "a": "A small piece of rock or metal moving in space",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What is a meteor (shooting star)?",
+    "a": "The streak of light seen when a meteoroid burns up on entering the Earth's atmosphere",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What is a meteorite?",
+    "a": "A piece of a meteoroid that survives and lands on the Earth's surface",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What is a comet?",
+    "a": "A small icy body that develops a glowing coma and tail when near the Sun",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Why is a comet called a 'dirty snowball'?",
+    "a": "It is a mixture of ice, dust and rock",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "In which direction does a comet's tail always point?",
+    "a": "Away from the Sun",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What are the main parts of a comet?",
+    "a": "Nucleus, coma and tail",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which comet is visible from the Earth about every 76 years?",
+    "a": "Halley's Comet",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "When was Halley's Comet last seen and when will it return?",
+    "a": "Last seen in 1986; expected again in 2061",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Who correctly predicted the return of the comet now named after him?",
+    "a": "Edmond Halley",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "In which month does the Perseid meteor shower occur?",
+    "a": "August",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "In which month does the Leonid meteor shower occur?",
+    "a": "November",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "In which month does the Geminid meteor shower occur?",
+    "a": "December",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "In which layer of the atmosphere do most meteors burn up?",
+    "a": "Mesosphere",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which asteroid event in Siberia in 1908 flattened millions of trees?",
+    "a": "Tunguska event",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which impact about 66 million years ago is linked to the extinction of the dinosaurs?",
+    "a": "Chicxulub impact (Mexico)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which lake in Maharashtra, India, was formed by a meteorite impact?",
+    "a": "Lonar Lake",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which comet collided with Jupiter in 1994?",
+    "a": "Comet Shoemaker-Levy 9",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Which NASA mission returned samples from asteroid Bennu to Earth in 2023?",
+    "a": "OSIRIS-REx",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Where do short-period comets mainly originate?",
+    "a": "Kuiper Belt",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "Where do long-period comets mainly originate?",
+    "a": "Oort Cloud",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What are the two types of tails a comet can have?",
+    "a": "Dust tail and ion (gas) tail",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "क्षुद्रग्रह (Asteroid) भनेको के हो?",
+    "a": "सूर्यलाई परिक्रमा गर्ने साना चट्टानी वा धातुका पिण्ड, प्रायः मंगल र बृहस्पतिबीच",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "उल्कापिण्ड (Meteoroid) भनेको के हो?",
+    "a": "अन्तरिक्षमा घुम्ने सानो चट्टान वा धातुको टुक्रा",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "उल्का (Meteor) भनेको के हो?",
+    "a": "उल्कापिण्ड पृथ्वीको वायुमण्डलमा पस्दा घर्षणले बल्ने प्रकाशको धर्सो (खस्ने तारा)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "उल्कापिण्ड (Meteorite) भनेको के हो?",
+    "a": "बल्दै गर्दा नसकिएर पृथ्वीको सतहमा आइपुगेको टुक्रा",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे तारा (धूमकेतु / Comet) भनेको के हो?",
+    "a": "हिउँ, धुलो र चट्टानले बनेको, सूर्यको नजिक आउँदा चम्किलो पुच्छर देखिने पिण्ड",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे ताराको पुच्छर सधैं कुन दिशातर्फ हुन्छ?",
+    "a": "सूर्यको विपरीत दिशातर्फ",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे ताराका मुख्य भागहरू के के हुन्?",
+    "a": "केन्द्रक (न्युक्लियस), कोमा र पुच्छर",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "करिब ७६ वर्षमा एक पटक देखिने प्रसिद्ध पुच्छ्रे तारा कुन हो?",
+    "a": "हेलीको पुच्छ्रे तारा",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "हेलीको पुच्छ्रे तारा अन्तिम पटक कहिले देखियो र अब कहिले देखिन्छ?",
+    "a": "सन् १९८६ मा देखियो; अब सन् २०६१ मा देखिने अनुमान",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे ताराको फर्किने मिति सही अनुमान गर्ने वैज्ञानिक को हुन्?",
+    "a": "एडमन्ड हेली",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पर्सिड उल्कावृष्टि कुन महिनामा हुन्छ?",
+    "a": "अगस्ट",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "लियोनिड उल्कावृष्टि कुन महिनामा हुन्छ?",
+    "a": "नोभेम्बर",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "जेमिनिड उल्कावृष्टि कुन महिनामा हुन्छ?",
+    "a": "डिसेम्बर",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "धेरैजसो उल्का वायुमण्डलको कुन तहमा बल्छन्?",
+    "a": "मध्यमण्डल (Mesosphere)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "सन् १९०८ मा साइबेरियामा ठूलो क्षेत्रका रूख ढालेको घटना कुन हो?",
+    "a": "टुंगुस्का घटना",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "करिब ६६ करोड वर्षअघि डायनोसरहरू लोप हुनुको कारणसँग जोडिएको क्षुद्रग्रह प्रहार कुन हो?",
+    "a": "चिक्सुलुब प्रहार (मेक्सिको)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "महाराष्ट्र (भारत) मा उल्कापिण्ड प्रहारबाट बनेको ताल कुन हो?",
+    "a": "लोनार ताल",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "सन् १९९४ मा बृहस्पतिसँग ठोक्किएको पुच्छ्रे तारा कुन हो?",
+    "a": "शुमेकर-लेवी ९",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "छोटो अवधिका पुच्छ्रे तारा मुख्यतः कहाँबाट आउँछन्?",
+    "a": "कुइपर पेटीबाट",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "लामो अवधिका पुच्छ्रे तारा मुख्यतः कहाँबाट आउँछन्?",
+    "a": "ऊर्ट बादलबाट",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे ताराका दुई प्रकारका पुच्छर के के हुन्?",
+    "a": "धुलोको पुच्छर र आयन (ग्यास) को पुच्छर",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "सन् २०२३ मा बेन्नु क्षुद्रग्रहको नमुना पृथ्वीमा ल्याउने नासाको मिसन कुन हो?",
+    "a": "ओसिरिस-रेक्स (OSIRIS-REx)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "पुच्छ्रे तारा किन 'फोहोर हिउँको गोला' भनिन्छ?",
+    "a": "यो हिउँ, धुलो र चट्टानको मिश्रण भएकाले",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "क्षुद्रग्रह पेटीको कुल द्रव्यमान चन्द्रमाको तुलनामा कस्तो छ?",
+    "a": "चन्द्रमाभन्दा निकै कम (करिब ४%)",
+    "cat": "7. Asteroids, Meteors & Comets"
+  },
+  {
+    "q": "What is the approximate age of the Earth?",
+    "a": "About 4.54 billion years",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the shape of the Earth called?",
+    "a": "Geoid (an oblate spheroid)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the approximate equatorial circumference of the Earth?",
+    "a": "About 40,075 km",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the average radius of the Earth?",
+    "a": "About 6,371 km",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which is larger, the Earth's equatorial diameter or polar diameter?",
+    "a": "Equatorial diameter (about 12,756 km vs 12,714 km)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What are the three main layers of the Earth's interior?",
+    "a": "Crust, mantle and core",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which is the outermost layer of the Earth?",
+    "a": "Crust",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the thickness range of the Earth's crust?",
+    "a": "About 5 km (oceanic) to 70 km (under mountains)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which boundary separates the crust and the mantle?",
+    "a": "Mohorovicic discontinuity (Moho)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which boundary separates the mantle and the outer core?",
+    "a": "Gutenberg discontinuity",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which boundary separates the outer core and the inner core?",
+    "a": "Lehmann discontinuity",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which state of matter is the Earth's outer core in?",
+    "a": "Liquid",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which state of matter is the Earth's inner core in?",
+    "a": "Solid",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which two metals mainly make up the Earth's core?",
+    "a": "Iron and nickel (Nife)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the most abundant element in the Earth's crust?",
+    "a": "Oxygen (about 46.6%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the most abundant metal in the Earth's crust?",
+    "a": "Aluminium",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the most abundant element in the whole Earth?",
+    "a": "Iron",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What causes the Earth's magnetic field?",
+    "a": "Movement of molten iron in the liquid outer core",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What percentage of the Earth's surface is covered by water?",
+    "a": "About 71%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which is the largest ocean?",
+    "a": "Pacific Ocean",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which is the deepest known point of the oceans?",
+    "a": "Challenger Deep in the Mariana Trench (about 10,900 m)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the approximate percentage of nitrogen in the Earth's atmosphere?",
+    "a": "About 78%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the approximate percentage of oxygen in the Earth's atmosphere?",
+    "a": "About 21%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which gas is third most abundant in the Earth's atmosphere?",
+    "a": "Argon (about 0.93%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Name the layers of the atmosphere from the ground upward.",
+    "a": "Troposphere, stratosphere, mesosphere, thermosphere, exosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "In which layer of the atmosphere does weather occur?",
+    "a": "Troposphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "In which layer is the ozone layer located?",
+    "a": "Stratosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which layer of the atmosphere reflects radio waves and contains the ionosphere?",
+    "a": "Thermosphere (mainly)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What does the ozone layer protect the Earth from?",
+    "a": "Harmful ultraviolet (UV) radiation",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Who proposed the Continental Drift Theory in 1912?",
+    "a": "Alfred Wegener",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What was the name of the supercontinent that existed before the continents separated?",
+    "a": "Pangaea",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "How were the Himalayas formed?",
+    "a": "By the collision of the Indian and Eurasian tectonic plates (about 50 million years ago)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the official height of Mount Everest (Sagarmatha) as announced in 2020 by Nepal and China?",
+    "a": "8,848.86 m",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the escape velocity of the Earth?",
+    "a": "About 11.2 km/s",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What is the value of acceleration due to gravity on the Earth's surface?",
+    "a": "About 9.8 m/s squared",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which planet is the only one in the solar system known to support life?",
+    "a": "Earth",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "Which scientist first measured the age of the Earth using radiometric dating of meteorites?",
+    "a": "Clair Patterson",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको उमेर करिब कति मानिन्छ?",
+    "a": "करिब ४.५४ अर्ब वर्ष",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको आकारलाई के भनिन्छ?",
+    "a": "जिओइड (ध्रुवमा चेप्टो, भूमध्यमा उचालिएको गोलाकार)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको भूमध्य रेखाको परिधि करिब कति छ?",
+    "a": "करिब ४०,०७५ किमी",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको औसत अर्धव्यास कति हो?",
+    "a": "करिब ६,३७१ किमी",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको भूमध्यरेखीय व्यास र ध्रुवीय व्यासमध्ये कुन ठूलो हुन्छ?",
+    "a": "भूमध्यरेखीय व्यास (करिब १२,७५६ किमी बनाम १२,७१४ किमी)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको आन्तरिक संरचनाका तीन मुख्य तह कुन कुन हुन्?",
+    "a": "भूपटल (क्रस्ट), मध्यावरण (मेन्टल) र केन्द्रमण्डल (कोर)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा बाहिरी तह कुन हो?",
+    "a": "भूपटल (क्रस्ट)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटलको मोटाइ करिब कति हुन्छ?",
+    "a": "समुद्रमुनि करिब ५ किमी देखि पर्वतमुनि करिब ७० किमीसम्म",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटल र मध्यावरणलाई छुट्याउने सीमा कुन हो?",
+    "a": "मोहो असम्बद्धता (Mohorovicic discontinuity)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "मध्यावरण र बाह्य केन्द्रमण्डललाई छुट्याउने सीमा कुन हो?",
+    "a": "गुटेनबर्ग असम्बद्धता",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "बाह्य र आन्तरिक केन्द्रमण्डललाई छुट्याउने सीमा कुन हो?",
+    "a": "लेहम्यान असम्बद्धता",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको बाह्य केन्द्रमण्डल कुन अवस्थामा छ?",
+    "a": "तरल",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको आन्तरिक केन्द्रमण्डल कुन अवस्थामा छ?",
+    "a": "ठोस",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "केन्द्रमण्डल मुख्यतः कुन दुई धातुले बनेको छ?",
+    "a": "फलाम र निकेल (निफे)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "महाद्वीपीय भूपटल र समुद्री भूपटलका मुख्य खनिज संरचना (सियाल र सिमा) के के हुन्?",
+    "a": "सियाल = सिलिकन + एल्युमिनियम (महादेश); सिमा = सिलिकन + म्याग्नेसियम (समुद्र)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटलमा सबैभन्दा बढी पाइने तत्त्व कुन हो?",
+    "a": "अक्सिजन (करिब ४६.६%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटलमा सबैभन्दा बढी पाइने धातु कुन हो?",
+    "a": "एल्युमिनियम",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "सम्पूर्ण पृथ्वीमा सबैभन्दा बढी पाइने तत्त्व कुन हो?",
+    "a": "फलाम",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको चुम्बकीय क्षेत्र किन उत्पन्न हुन्छ?",
+    "a": "तरल बाह्य केन्द्रमण्डलमा पग्लेको फलामको गतिका कारण",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको केन्द्रको तापक्रम करिब कति मानिन्छ?",
+    "a": "करिब ५,००० देखि ६,००० डिग्री सेल्सियस",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको सतहको कति प्रतिशत भाग पानीले ढाकेको छ?",
+    "a": "करिब ७१%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "सबैभन्दा ठूलो महासागर कुन हो?",
+    "a": "प्रशान्त महासागर",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "महासागरको सबैभन्दा गहिरो ठाउँ कुन हो?",
+    "a": "मारियाना खाडलको च्यालेन्जर डीप (करिब १०,९०० मिटर)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलमा नाइट्रोजनको अनुपात करिब कति छ?",
+    "a": "करिब ७८%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलमा अक्सिजनको अनुपात करिब कति छ?",
+    "a": "करिब २१%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलमा तेस्रो धेरै पाइने ग्यास कुन हो?",
+    "a": "आर्गन (करिब ०.९३%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलका तहहरू तलबाट माथि क्रमशः लेख्नुहोस्।",
+    "a": "क्षोभमण्डल, समतापमण्डल, मध्यमण्डल, तापमण्डल, बहिर्मण्डल",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "मौसमी घटना (बादल, वर्षा) कुन तहमा हुन्छ?",
+    "a": "क्षोभमण्डल (Troposphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "ओजोन तह कुन मण्डलमा पर्छ?",
+    "a": "समतापमण्डल (Stratosphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलको सबैभन्दा चिसो तह कुन हो?",
+    "a": "मध्यमण्डल (Mesosphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "वायुमण्डलको सबैभन्दा तातो तह कुन हो?",
+    "a": "तापमण्डल (Thermosphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "क्षोभमण्डलमा उचाइ बढ्दै जाँदा तापक्रम कसरी परिवर्तन हुन्छ?",
+    "a": "प्रति किमी करिब ६.५ डिग्री सेल्सियसले घट्छ",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "ओजोन तहले पृथ्वीलाई कुन कुराबाट जोगाउँछ?",
+    "a": "हानिकारक पराबैजनी (UV) किरणबाट",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "महाद्वीपीय प्रवाह सिद्धान्त सन् १९१२ मा कसले दिए?",
+    "a": "अल्फ्रेड वेगनर",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "महाद्वीपहरू छुट्टिनुअघि भएको एकीकृत विशाल भूखण्डको नाम के हो?",
+    "a": "प्यान्जिया",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "हिमालय पर्वतको निर्माण कसरी भयो?",
+    "a": "भारतीय र यूरेसियन प्लेटहरू ठोक्किएर (करिब ५ करोड वर्षअघि सुरु)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "सन् २०२० मा नेपाल र चीनले घोषणा गरेको सगरमाथाको उचाइ कति हो?",
+    "a": "८,८४८.८६ मिटर",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको पलायन वेग (Escape velocity) कति हो?",
+    "a": "करिब ११.२ किमी/से.",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको सतहमा गुरुत्वीय त्वरण (g) को मान कति हो?",
+    "a": "करिब ९.८ मि./से.²",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "सौर्यमण्डलमा जीवन भएको थाहा भएको एक मात्र ग्रह कुन हो?",
+    "a": "पृथ्वी",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "रेडियोमेट्रिक विधिले उल्कापिण्डबाट पृथ्वीको उमेर निकाल्ने वैज्ञानिक को हुन्?",
+    "a": "क्लेयर प्याटरसन",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "काम्रमन रेखा (Karman line) कति उचाइमा मानिन्छ?",
+    "a": "समुद्र सतहबाट करिब १०० किमी (अन्तरिक्षको सीमा)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "समुद्र सतहमा वायुदाब करिब कति हुन्छ?",
+    "a": "About 1013 hPa (1 atmosphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "क्षोभमण्डल र समतापमण्डलबीचको सीमालाई के भनिन्छ?",
+    "a": "Tropopause",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "रेडियो तरंग परावर्तन गर्ने वायुमण्डलको तहलाई के भनिन्छ?",
+    "a": "Ionosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "हरितगृह ग्यासका उदाहरण दिनुहोस्।",
+    "a": "Carbon dioxide, methane, nitrous oxide, water vapour",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "अन्टार्कटिकामाथि ओजोन प्वाल घटाउन सन् १९८७ मा कुन सम्झौता भयो?",
+    "a": "Montreal Protocol (to phase out CFCs)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "ओजोन तह नष्ट गर्ने मुख्य रसायन कुन हो?",
+    "a": "Chlorofluorocarbons (CFCs)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीलाई सौर्य वायुबाट जोगाउने चुम्बकीय कवचलाई के भनिन्छ?",
+    "a": "Magnetosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको औसत घनत्व कति छ?",
+    "a": "About 5.51 g/cm3",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको कुल सतह क्षेत्रफल करिब कति छ?",
+    "a": "About 510 million km squared",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको स्थल भागको क्षेत्रफल करिब कति हुन्छ?",
+    "a": "About 149 million km squared (about 29%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा होचो स्थल भाग कुन हो?",
+    "a": "Dead Sea shore (about 430 m below sea level)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूकम्पीय तरङ्ग (seismic waves) का मुख्य दुई प्रकार कुन कुन हुन्?",
+    "a": "P-waves (primary) and S-waves (secondary)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "S-तरङ्ग तरल पदार्थबाट पार हुन सक्दैन; यसले केन्द्रमण्डलबारे के देखाउँछ?",
+    "a": "The outer core is liquid",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूकम्पको तीव्रता नाप्न प्रयोग हुने उपकरणलाई के भनिन्छ?",
+    "a": "Seismograph",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूकम्पको उद्गम बिन्दुमाथि भूसतहको ठाउँलाई के भनिन्छ?",
+    "a": "Epicentre",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटल र माथिल्लो मध्यावरणको कडा बाहिरी तहलाई के भनिन्छ?",
+    "a": "Lithosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "लिथोस्फियरमुनि रहेको अर्ध-तरल तह कुन हो?",
+    "a": "Asthenosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीमा मुख्य प्लेट कतिवटा मानिन्छन्?",
+    "a": "Seven (Pacific, North American, Eurasian, African, Antarctic, Indo-Australian, South American)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "हिमालयको क्षेत्रमा कस्तो प्लेट सीमा छ?",
+    "a": "Convergent boundary (continental collision)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "२०७२ वैशाख १२ (२५ अप्रिल २०१५) को नेपालको भूकम्पको परिमाण कति थियो?",
+    "a": "About 7.8 magnitude (Gorkha earthquake, epicentre near Barpak, Gorkha)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "हिमालय अहिले पनि के गर्दै छ?",
+    "a": "It is still rising slowly (about a few millimetres per year)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको द्रव्यमान करिब कति छ?",
+    "a": "About 5.97 x 10^24 kg",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको परिभ्रमण गति बिस्तारै कस्तो हुँदैछ?",
+    "a": "Gradually slowing (days are getting slightly longer)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "आकाश नीलो किन देखिन्छ?",
+    "a": "Rayleigh scattering: air molecules scatter shorter (blue) wavelengths of sunlight more",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "सूर्योदय र सूर्यास्तमा आकाश रातो किन देखिन्छ?",
+    "a": "Sunlight travels a longer path, so blue light is scattered away and red remains",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "अन्तरिक्षमा आवाज किन सुनिँदैन?",
+    "a": "Sound needs a medium and space is almost a vacuum",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको वायुमण्डलमा पानीको बाफको मात्रा कस्तो हुन्छ?",
+    "a": "Variable, from almost 0 to about 4%",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "मध्य अक्षांशमा माथिल्लो क्षोभमण्डलमा चल्ने तीव्र हावालाई के भनिन्छ?",
+    "a": "Jet streams",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा बाहिरी वायुमण्डल (अन्तरिक्षसँग जोडिने तह) कुन हो?",
+    "a": "Exosphere",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "अरोराहरू वायुमण्डलको कुन भागमा देखिन्छन्?",
+    "a": "Thermosphere (about 100-300 km, within the ionosphere)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको चुम्बकीय ध्रुव र भौगोलिक ध्रुव समान हुन्छन् कि फरक?",
+    "a": "Different; the magnetic poles are offset from the geographic poles and drift over time",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "भूपटलको औसत बनोटमा दोस्रो धेरै पाइने तत्त्व कुन हो?",
+    "a": "Silicon (about 27.7%)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "पृथ्वीको केन्द्रमण्डलको त्रिज्या करिब कति छ?",
+    "a": "About 3,480 km (outer plus inner core)",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "मध्यावरणको मोटाइ करिब कति छ?",
+    "a": "About 2,900 km",
+    "cat": "8. Earth Structure & Atmosphere"
+  },
+  {
+    "q": "What are the two main motions of the Earth?",
+    "a": "Rotation (on its axis) and revolution (around the Sun)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "In which direction does the Earth rotate?",
+    "a": "West to east (anticlockwise as seen from above the North Pole)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "How long does the Earth take to complete one rotation?",
+    "a": "About 24 hours (23 hours 56 minutes 4 seconds, sidereal)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "How long does the Earth take to revolve once around the Sun?",
+    "a": "365 days 5 hours 48 minutes 46 seconds (about 365.25 days)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What are the effects of the rotation of the Earth?",
+    "a": "Day and night, tides, deflection of winds and ocean currents, time differences",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What are the effects of the revolution of the Earth?",
+    "a": "Seasons and changes in the length of day and night",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the angle of tilt of the Earth's axis from the vertical to its orbital plane?",
+    "a": "23.5 degrees",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What angle does the Earth's axis make with the plane of its orbit?",
+    "a": "66.5 degrees",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the plane of the Earth's orbit around the Sun called?",
+    "a": "Ecliptic plane",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the shape of the Earth's orbit around the Sun?",
+    "a": "Elliptical",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the Earth's position closest to the Sun called, and when does it occur?",
+    "a": "Perihelion, around 3 January",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the Earth's position farthest from the Sun called, and when does it occur?",
+    "a": "Aphelion, around 4 July",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the approximate distance of the Earth from the Sun at perihelion?",
+    "a": "About 147 million km",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the approximate distance of the Earth from the Sun at aphelion?",
+    "a": "About 152 million km",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the approximate orbital speed of the Earth around the Sun?",
+    "a": "About 29.8 km/s",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the approximate speed of the Earth's rotation at the Equator?",
+    "a": "About 1,670 km/h",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Why are leap years needed?",
+    "a": "The Earth takes about 365.25 days to orbit the Sun, so an extra day is added every four years",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "On which date does a leap year have an extra day?",
+    "a": "29 February",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What are the summer solstice and winter solstice dates in the Northern Hemisphere?",
+    "a": "About 21 June (summer) and 22 December (winter)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "When are the equinoxes?",
+    "a": "About 21 March (spring/vernal) and 23 September (autumn)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is special about the length of day and night on an equinox?",
+    "a": "Day and night are nearly equal everywhere on Earth",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "On which date is the longest day in the Northern Hemisphere?",
+    "a": "About 21 June",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "On which date is the shortest day in the Northern Hemisphere?",
+    "a": "About 22 December",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Over which latitude is the Sun directly overhead on 21 June?",
+    "a": "Tropic of Cancer (23.5 degrees N)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Over which latitude is the Sun directly overhead on 22 December?",
+    "a": "Tropic of Capricorn (23.5 degrees S)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Over which latitude is the Sun directly overhead on the equinoxes?",
+    "a": "The Equator (0 degrees)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the phenomenon of the Sun staying above the horizon for 24 hours near the poles called?",
+    "a": "Midnight Sun",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What causes seasons on Earth?",
+    "a": "The tilt of the Earth's axis combined with its revolution around the Sun",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the line dividing the day side and night side of the Earth called?",
+    "a": "Circle of illumination",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the Prime Meridian and where does it pass?",
+    "a": "0 degrees longitude, passing through Greenwich, London",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "How many degrees of longitude correspond to one hour of time difference?",
+    "a": "15 degrees",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "How many minutes of time difference correspond to one degree of longitude?",
+    "a": "4 minutes",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the standard time of Nepal relative to GMT/UTC?",
+    "a": "UTC +5:45",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "On which meridian is Nepal Standard Time based?",
+    "a": "86 degrees 15 minutes East",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Between which latitudes does Nepal lie?",
+    "a": "Approximately 26 degrees 22 minutes N to 30 degrees 27 minutes N",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Between which longitudes does Nepal lie?",
+    "a": "Approximately 80 degrees 4 minutes E to 88 degrees 12 minutes E",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "In which hemispheres does Nepal lie?",
+    "a": "Northern and Eastern",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the time difference between Nepal and India?",
+    "a": "15 minutes (Nepal is ahead of India's IST, UTC +5:30)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Which direction does the Sun appear to rise?",
+    "a": "East (because of the Earth's west-to-east rotation)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Which deflecting force due to the Earth's rotation affects winds and ocean currents?",
+    "a": "Coriolis force",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "In which direction are winds deflected in the Northern Hemisphere due to the Coriolis force?",
+    "a": "To the right",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "Which Indian astronomer in the 5th century stated that the Earth rotates on its axis?",
+    "a": "Aryabhata",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is the 26,000-year wobble of the Earth's axis called?",
+    "a": "Precession",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीका मुख्य दुई गति कुन कुन हुन्?",
+    "a": "परिभ्रमण (अक्षमा घुम्ने) र परिक्रमा (सूर्यको वरिपरि घुम्ने)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिभ्रमणको दिशा कस्तो हुन्छ?",
+    "a": "पश्चिमबाट पूर्व",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीले एक पटक परिभ्रमण गर्न कति समय लिन्छ?",
+    "a": "करिब २४ घण्टा (२३ घण्टा ५६ मिनेट ४ सेकेन्ड, नाक्षत्र दिन)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीले सूर्यलाई एक पटक परिक्रमा गर्न कति समय लिन्छ?",
+    "a": "३६५ दिन ५ घण्टा ४८ मिनेट ४६ सेकेन्ड (करिब ३६५.२५ दिन)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिभ्रमणका प्रभाव के के हुन्?",
+    "a": "दिन र रात, ज्वारभाटा, हावा र समुद्री धाराको विचलन, समयको भिन्नता",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिक्रमाका प्रभाव के के हुन्?",
+    "a": "ऋतु परिवर्तन र दिन-रातको लम्बाइमा फरक",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको अक्ष कक्षीय तलको लम्बबाट कति डिग्रीले ढल्केको छ?",
+    "a": "२३.५ डिग्री",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको अक्षले कक्षीय समतलसँग कति डिग्रीको कोण बनाउँछ?",
+    "a": "६६.५ डिग्री",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिक्रमा कक्षको समतललाई के भनिन्छ?",
+    "a": "क्रान्तिवृत्त (Ecliptic)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिक्रमा कक्षको आकार कस्तो छ?",
+    "a": "दीर्घवृत्ताकार",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वी सूर्यको सबैभन्दा नजिक हुने अवस्थालाई के भनिन्छ र यो कहिले हुन्छ?",
+    "a": "उपसौर (Perihelion); करिब ३ जनवरीमा",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वी सूर्यबाट सबैभन्दा टाढा हुने अवस्थालाई के भनिन्छ र यो कहिले हुन्छ?",
+    "a": "अपसौर (Aphelion); करिब ४ जुलाईमा",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उपसौरमा पृथ्वी र सूर्यबीचको दूरी करिब कति हुन्छ?",
+    "a": "करिब १४.७ करोड किमी",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अपसौरमा पृथ्वी र सूर्यबीचको दूरी करिब कति हुन्छ?",
+    "a": "करिब १५.२ करोड किमी",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "सूर्यको वरिपरि पृथ्वीको परिक्रमा गति करिब कति हुन्छ?",
+    "a": "करिब २९.८ किमी/से.",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "भूमध्य रेखामा पृथ्वीको परिभ्रमण गति करिब कति हुन्छ?",
+    "a": "करिब १,६७० किमी/घण्टा",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अधिवर्ष (Leap year) किन आवश्यक पर्छ?",
+    "a": "पृथ्वीले परिक्रमा गर्न ३६५.२५ दिन लिने भएकाले हरेक ४ वर्षमा १ दिन थपिन्छ",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अधिवर्षमा थपिने दिन कुन मितिमा पर्छ?",
+    "a": "२९ फेब्रुअरी",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उत्तरी गोलार्द्धमा उत्तरायण र दक्षिणायनको सङ्क्रान्ति (अयनान्त) कहिले पर्छ?",
+    "a": "करिब २१ जुन (ग्रीष्म अयनान्त) र २२ डिसेम्बर (शीत अयनान्त)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "विषुव (equinox) कहिले हुन्छ?",
+    "a": "करिब २१ मार्च र २३ सेप्टेम्बर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "विषुवको दिन दिन र रातको लम्बाइ कस्तो हुन्छ?",
+    "a": "लगभग बराबर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उत्तरी गोलार्द्धमा सबैभन्दा लामो दिन कहिले हुन्छ?",
+    "a": "करिब २१ जुन",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उत्तरी गोलार्द्धमा सबैभन्दा छोटो दिन कहिले हुन्छ?",
+    "a": "करिब २२ डिसेम्बर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "२१ जुनमा सूर्य कुन अक्षांशमा ठाडो पर्छ?",
+    "a": "कर्कट रेखा (२३.५° उत्तर)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "२२ डिसेम्बरमा सूर्य कुन अक्षांशमा ठाडो पर्छ?",
+    "a": "मकर रेखा (२३.५° दक्षिण)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "विषुवको दिन सूर्य कुन अक्षांशमा ठाडो पर्छ?",
+    "a": "भूमध्य रेखा (०°)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "ध्रुवीय क्षेत्रमा २४ घण्टा सूर्य क्षितिजमाथि रहने घटनालाई के भनिन्छ?",
+    "a": "मध्यरातको सूर्य (Midnight Sun)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीमा ऋतु किन फेरिन्छन्?",
+    "a": "अक्षको झुकाव र सूर्यको परिक्रमाको संयुक्त प्रभावले",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको दिन र रातको सीमा रेखालाई के भनिन्छ?",
+    "a": "प्रकाश वृत्त (Circle of illumination)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "प्रधान मध्याह्न रेखा (Prime Meridian) भनेको के हो र कहाँबाट जान्छ?",
+    "a": "०° देशान्तर, इङ्ल्यान्डको ग्रिनिच भएर जान्छ",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "१५ डिग्री देशान्तरको फरकले कति समयको फरक ल्याउँछ?",
+    "a": "१ घण्टा",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "१ डिग्री देशान्तरको फरकले कति समयको फरक ल्याउँछ?",
+    "a": "४ मिनेट",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अन्तर्राष्ट्रिय तिथि रेखा (IDL) कति डिग्री देशान्तरमा पर्छ?",
+    "a": "१८०°",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अन्तर्राष्ट्रिय तिथि रेखा पूर्वबाट पश्चिम पार गर्दा के गर्नुपर्छ?",
+    "a": "एक दिन थप्नुपर्छ",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय ग्रिनिच (GMT) भन्दा कति अगाडि छ?",
+    "a": "५ घण्टा ४५ मिनेट",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय कुन देशान्तरमा आधारित छ?",
+    "a": "८६°१५' पूर्वी देशान्तर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय भारतको समयभन्दा कति अगाडि छ?",
+    "a": "१५ मिनेट",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपाल कुन अक्षांशहरूबीच पर्छ?",
+    "a": "करिब २६°२२' उत्तर देखि ३०°२७' उत्तर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपाल कुन देशान्तरहरूबीच पर्छ?",
+    "a": "करिब ८०°४' पूर्व देखि ८८°१२' पूर्व",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपाल कुन गोलार्द्धमा पर्छ?",
+    "a": "उत्तरी र पूर्वी गोलार्द्धमा",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपालमा परम्परागत रूपमा कतिवटा ऋतु मानिन्छन्?",
+    "a": "छ वटा (वसन्त, ग्रीष्म, वर्षा, शरद, हेमन्त र शिशिर)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिभ्रमणका कारण हावा र समुद्री धारा विचलित हुने बललाई के भनिन्छ?",
+    "a": "कोरिओलिस बल",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उत्तरी गोलार्द्धमा कोरिओलिस बलका कारण हावा कता विचलित हुन्छ?",
+    "a": "दायाँतिर",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वी आफ्नो अक्षमा घुम्छ भन्ने कुरा ५ औँ शताब्दीमा उल्लेख गर्ने भारतीय खगोलविद् को हुन्?",
+    "a": "आर्यभट्ट",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको अक्षको करिब २६,००० वर्षे डगमगाहटलाई के भनिन्छ?",
+    "a": "अयनचलन (Precession)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको आधारभूत समय क्षेत्र कतिवटा मानिन्छन्?",
+    "a": "24 standard time zones (each about 15 degrees wide)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "ग्रिनिच प्रधान मध्याह्न रेखा कुन वर्षको सम्मेलनले स्वीकार गर्‍यो?",
+    "a": "1884 (International Meridian Conference)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "ग्रिनिचमा मध्याह्न १२ बज्दा नेपालमा कति बज्छ?",
+    "a": "5:45 PM",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय (UTC+5:45) कहिलेदेखि लागू भएको मानिन्छ?",
+    "a": "From 1 January 1986",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "चीन (UTC+8) र नेपालबीच समयको फरक कति छ?",
+    "a": "China is 2 hours 15 minutes ahead of Nepal",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "जापान (UTC+9) र नेपालबीच समयको फरक कति छ?",
+    "a": "Japan is 3 hours 15 minutes ahead of Nepal",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "बङ्गलादेश र भुटान (UTC+6) र नेपालबीच समयको फरक कति छ?",
+    "a": "They are 15 minutes ahead of Nepal",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "भारतको प्रमाणिक समय (IST) ग्रिनिचभन्दा कति अगाडि छ?",
+    "a": "5 hours 30 minutes",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "उत्तरी ध्रुवको अक्षांश कति हुन्छ?",
+    "a": "90 degrees North",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "ध्रुवीय वृत्त (Arctic/Antarctic Circle) कति अक्षांशमा पर्छ?",
+    "a": "66.5 degrees North and South",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "अक्षांशका रेखाहरूलाई के भनिन्छ र देशान्तरका रेखाहरूलाई के भनिन्छ?",
+    "a": "Latitudes are parallels; longitudes are meridians",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीमा कुल कतिवटा देशान्तर रेखा (डिग्रीका) हुन्छन्?",
+    "a": "360 (180 East and 180 West)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "भूमध्य रेखाको अक्षांश कति हो?",
+    "a": "0 degrees",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "भूमध्य रेखामा दिन र रात कस्ता हुन्छन्?",
+    "a": "Almost equal (about 12 hours each) throughout the year",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "ध्रुवमा दिन र रात कति महिना लामो हुन्छन्?",
+    "a": "About 6 months of daylight and 6 months of darkness",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "कर्कट रेखा नेपालबाट जान्छ कि जाँदैन?",
+    "a": "No; it passes through India and Nepal lies north of it",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "सङ्क्रान्ति (solstice) शब्दको अर्थ के हो?",
+    "a": "'Sun stands still' (the Sun's noon height stops changing before reversing)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "दक्षिणी गोलार्द्धमा डिसेम्बरमा कुन ऋतु हुन्छ?",
+    "a": "Summer",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "मध्याह्नमा सूर्य ठीक शिरमाथि हुँदा वस्तुको छायाँ कस्तो हुन्छ?",
+    "a": "Almost zero (shortest possible shadow)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "यदि दुई स्थानको देशान्तर फरक ३०° छ भने समय फरक कति हुन्छ?",
+    "a": "2 hours",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीको परिक्रमा गति सबैभन्दा छिटो कुन महिनामा हुन्छ?",
+    "a": "January (near perihelion)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वी सूर्यको सबैभन्दा नजिक हुँदा (जनवरी) उत्तरी गोलार्द्धमा किन जाडो हुन्छ?",
+    "a": "Because seasons depend on axial tilt, not on distance from the Sun",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "एक सौर वर्षमा कति ऋतुहरू (समशीतोष्ण क्षेत्रमा) हुन्छन्?",
+    "a": "Four (spring, summer, autumn, winter)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पूर्वबाट पश्चिम यात्रा गर्दा समयको घडी कसरी मिलाउनुपर्छ?",
+    "a": "Set the clock back (time decreases moving west)",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "पृथ्वीमा जहाँ सूर्य पहिले उदाउँछ त्यो दिशा कुन हो?",
+    "a": "East",
+    "cat": "9. Motions of Earth, Time & Seasons"
+  },
+  {
+    "q": "What is a solar eclipse?",
+    "a": "When the Moon passes between the Sun and the Earth and blocks the Sun's light",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is a lunar eclipse?",
+    "a": "When the Earth passes between the Sun and the Moon and its shadow falls on the Moon",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "At which Moon phase does a solar eclipse occur?",
+    "a": "New moon",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "At which Moon phase does a lunar eclipse occur?",
+    "a": "Full moon",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the dark central part of a shadow called?",
+    "a": "Umbra",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the lighter outer part of a shadow called?",
+    "a": "Penumbra",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the ring-shaped appearance of the Sun during an annular eclipse called?",
+    "a": "Ring of fire",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "Why does an annular solar eclipse occur?",
+    "a": "The Moon is farther from the Earth and appears too small to cover the whole Sun",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the maximum duration of totality in a total solar eclipse?",
+    "a": "About 7 minutes 32 seconds",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "Why do eclipses not occur every month?",
+    "a": "The Moon's orbit is tilted about 5 degrees to the Earth's orbit",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the minimum and maximum number of solar eclipses in a year?",
+    "a": "Minimum 2, maximum 5",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "Why is it unsafe to look at a solar eclipse directly?",
+    "a": "The Sun's rays can permanently damage the retina",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the reddish colour of the Moon during a total lunar eclipse often called?",
+    "a": "Blood Moon",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the bright 'diamond' spot seen just before or after totality called?",
+    "a": "Diamond ring effect",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What causes ocean tides?",
+    "a": "Gravitational pull of the Moon (mainly) and the Sun",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the high tide that occurs at new moon and full moon called?",
+    "a": "Spring tide",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the low-range tide that occurs at the first and last quarter of the Moon called?",
+    "a": "Neap tide",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "What is the approximate interval between two successive high tides?",
+    "a": "About 12 hours 25 minutes",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "How many high tides occur in a day at most places?",
+    "a": "Two",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "Which place is famous for the highest tidal range in the world?",
+    "a": "Bay of Fundy, Canada",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "सूर्यग्रहण भनेको के हो?",
+    "a": "चन्द्रमा सूर्य र पृथ्वीबीच आएर सूर्यको प्रकाश छेक्ने घटना",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "चन्द्रग्रहण भनेको के हो?",
+    "a": "पृथ्वी सूर्य र चन्द्रमाबीच आउँदा पृथ्वीको छायाँ चन्द्रमामा पर्ने घटना",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "सूर्यग्रहण चन्द्रमाको कुन अवस्थामा लाग्छ?",
+    "a": "औँसी (नयाँ चन्द्रमा) मा",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "चन्द्रग्रहण चन्द्रमाको कुन अवस्थामा लाग्छ?",
+    "a": "पूर्णिमा (पूर्ण चन्द्रमा) मा",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "छायाँको गाढा केन्द्रीय भागलाई के भनिन्छ?",
+    "a": "प्रच्छाया (Umbra)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "छायाँको फिक्का बाहिरी भागलाई के भनिन्छ?",
+    "a": "उपच्छाया (Penumbra)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "वलयाकार सूर्यग्रहणमा देखिने औँठी जस्तो आकृतिलाई के भनिन्छ?",
+    "a": "रिङ अफ फायर (अग्नि वलय)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "वलयाकार सूर्यग्रहण किन हुन्छ?",
+    "a": "चन्द्रमा पृथ्वीबाट टाढा हुँदा सानो देखिई सूर्यलाई पूरै छेक्न नसक्दा",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पूर्ण सूर्यग्रहणको अधिकतम अवधि करिब कति हुन्छ?",
+    "a": "करिब ७ मिनेट ३२ सेकेन्ड",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "हरेक महिना ग्रहण किन लाग्दैन?",
+    "a": "चन्द्रमाको कक्षा पृथ्वीको कक्षासँग करिब ५° ढल्केको हुने भएकाले",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "एक वर्षमा कम्तीमा र बढीमा कति सूर्यग्रहण लाग्न सक्छ?",
+    "a": "कम्तीमा २ र बढीमा ५",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "सूर्यग्रहण नाङ्गो आँखाले हेर्नु किन असुरक्षित छ?",
+    "a": "सूर्यको किरणले रेटिना स्थायी रूपमा बिगार्न सक्छ",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पूर्ण चन्द्रग्रहणमा चन्द्रमा रातो देखिने घटनालाई प्रायः के भनिन्छ?",
+    "a": "ब्लड मुन (रक्त चन्द्रमा)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पूर्ण सूर्यग्रहणको सुरु वा अन्त्यमा देखिने हीरा जस्तो चम्किलो बिन्दुलाई के भनिन्छ?",
+    "a": "डायमन्ड रिङ प्रभाव",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "समुद्री ज्वारभाटा किन आउँछ?",
+    "a": "चन्द्रमा (मुख्य) र सूर्यको गुरुत्वाकर्षण बलका कारण",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "औँसी र पूर्णिमामा आउने उच्च ज्वारलाई के भनिन्छ?",
+    "a": "वृहत् ज्वार (Spring tide)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "अष्टमी (पहिलो र अन्तिम चतुर्थांश) मा आउने कम ज्वारलाई के भनिन्छ?",
+    "a": "लघु ज्वार (Neap tide)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "लगातार दुई उच्च ज्वारबीचको अन्तर करिब कति हुन्छ?",
+    "a": "करिब १२ घण्टा २५ मिनेट",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "विश्वमा सबैभन्दा बढी ज्वारको उचाइ भएको ठाउँ कुन हो?",
+    "a": "बे अफ फन्डी, क्यानडा",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पृथ्वीमा सूर्यग्रहण देखिने कुल क्षेत्र (पूर्ण छायाँ) कस्तो हुन्छ?",
+    "a": "साँघुरो पट्टी मात्र; अन्य ठाउँमा आंशिक ग्रहण देखिन्छ",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पूर्ण चन्द्रग्रहणमा चन्द्रमा पूरै छायाँमा रहने अधिकतम समय करिब कति हो?",
+    "a": "About 1 hour 47 minutes (totality)",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "हरेक १८ वर्ष ११ दिनमा ग्रहणहरू दोहोरिने चक्रलाई के भनिन्छ?",
+    "a": "Saros cycle",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "चन्द्रग्रहण पृथ्वीको कुन भागबाट देख्न सकिन्छ?",
+    "a": "From the entire night side of the Earth",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "पूर्ण सूर्यग्रहणको बेला आकाशमा तारा र ग्रह किन देखिन्छन्?",
+    "a": "The Moon blocks sunlight so the sky becomes dark like twilight",
+    "cat": "10. Eclipses & Tides"
+  },
+  {
+    "q": "Who was the first human to travel into space?",
+    "a": "Yuri Gagarin (USSR, 12 April 1961, Vostok 1)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who was the first woman in space?",
+    "a": "Valentina Tereshkova (USSR, 1963)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who was the first American in space?",
+    "a": "Alan Shepard (1961)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who was the first American to orbit the Earth?",
+    "a": "John Glenn (1962)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who was the first Indian citizen to travel in space?",
+    "a": "Rakesh Sharma (1984, Soyuz T-11)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which Indian-born woman astronaut died in the Columbia disaster in 2003?",
+    "a": "Kalpana Chawla",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which Indian-American astronaut has made long stays on the ISS and flown on the Boeing Starliner in 2024?",
+    "a": "Sunita Williams",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who was the first Chinese astronaut to travel in a Chinese spacecraft?",
+    "a": "Yang Liwei (2003, Shenzhou 5)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which space agency was formed in 1958?",
+    "a": "NASA (USA)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "When was ISRO established?",
+    "a": "1969",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Who is regarded as the father of the Indian space programme?",
+    "a": "Vikram Sarabhai",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which Indian mission reached Mars orbit in 2014, making India the first Asian nation to do so?",
+    "a": "Mangalyaan (Mars Orbiter Mission)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which was the first spacecraft to reach interstellar space?",
+    "a": "Voyager 1 (2012)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which NASA rover landed on Mars in 2012 in Gale Crater?",
+    "a": "Curiosity",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which NASA rover landed in Jezero Crater on Mars in February 2021?",
+    "a": "Perseverance (with the Ingenuity helicopter)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which mission first landed humans on the Moon?",
+    "a": "Apollo 11 (1969)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which spacecraft orbited Saturn from 2004 to 2017?",
+    "a": "Cassini",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which NASA probe has been orbiting Jupiter since 2016?",
+    "a": "Juno",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "What was the first space station launched in 1971?",
+    "a": "Salyut 1 (USSR)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which space station is jointly operated by NASA, Roscosmos, ESA, JAXA and CSA?",
+    "a": "International Space Station (ISS)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "What does ISRO stand for?",
+    "a": "Indian Space Research Organisation",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "What does NASA stand for?",
+    "a": "National Aeronautics and Space Administration",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "What is the Russian space agency called?",
+    "a": "Roscosmos",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Which Chinese mission was the first to land on the far side of the Moon in 2019?",
+    "a": "Chang'e-4",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "In which direction are most satellites launched to take advantage of Earth's rotation?",
+    "a": "Eastward",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "Why do astronauts in orbit feel weightless?",
+    "a": "They are in continuous free fall around the Earth",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अन्तरिक्षमा पुग्ने पहिलो मानव को हुन्?",
+    "a": "युरी ग्यागारिन (सोभियत संघ, १२ अप्रिल १९६१, भोस्तोक १)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अन्तरिक्षमा पुग्ने पहिलो महिला को हुन्?",
+    "a": "भ्यालेन्टिना टेरेस्कोवा (सोभियत संघ, सन् १९६३)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अन्तरिक्षमा पुग्ने पहिलो अमेरिकी को हुन्?",
+    "a": "एलन शेपर्ड (सन् १९६१)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "पृथ्वी परिक्रमा गर्ने पहिलो अमेरिकी को हुन्?",
+    "a": "जोन ग्लेन (सन् १९६२)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अन्तरिक्षमा पुग्ने पहिलो भारतीय नागरिक को हुन्?",
+    "a": "राकेश शर्मा (सन् १९८४, सोयुज टी-११)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २००३ को कोलम्बिया दुर्घटनामा मृत्यु भएकी भारतीय मूलकी अन्तरिक्ष यात्री को हुन्?",
+    "a": "कल्पना चावला",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चीनको आफ्नै यानबाट अन्तरिक्ष जाने पहिलो अन्तरिक्ष यात्री को हुन्?",
+    "a": "याङ लिवेई (सन् २००३, शेन्जो ५)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "नासाको स्थापना कहिले भयो?",
+    "a": "सन् १९५८",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "इसरोको स्थापना कहिले भयो?",
+    "a": "सन् १९६९",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भारतीय अन्तरिक्ष कार्यक्रमका पिता कसलाई मानिन्छ?",
+    "a": "विक्रम साराभाई",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०१४ मा मंगल ग्रहको कक्षामा पुगेर भारतलाई पहिलो एसियाली मुलुक बनाउने मिसन कुन हो?",
+    "a": "मंगलयान (Mars Orbiter Mission)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अन्तरिक्षको अन्तरतारकीय क्षेत्र (interstellar space) मा पुग्ने पहिलो यान कुन हो?",
+    "a": "भ्वायजर १ (सन् २०१२)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०१२ मा मंगलको गेल क्रेटरमा अवतरण गरेको नासाको रोभर कुन हो?",
+    "a": "क्युरियोसिटी",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०२१ को फेब्रुअरीमा मंगलको जेजेरो क्रेटरमा अवतरण गरेको नासाको रोभर कुन हो?",
+    "a": "पर्सिभेरेन्स (इन्जेन्युइटी हेलिकप्टरसहित)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २००४ देखि २०१७ सम्म शनि ग्रहको परिक्रमा गरेको यान कुन हो?",
+    "a": "क्यासिनी",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०१६ देखि बृहस्पतिको परिक्रमा गरिरहेको नासाको यान कुन हो?",
+    "a": "जुनो",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् १९७१ मा प्रक्षेपण गरिएको पहिलो अन्तरिक्ष स्टेशन कुन हो?",
+    "a": "सालियुत १ (सोभियत संघ)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "नासा, रोस्कोस्मोस, ESA, JAXA र CSA ले संयुक्त रूपमा सञ्चालन गर्ने अन्तरिक्ष स्टेशन कुन हो?",
+    "a": "अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशन (ISS)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "ISRO को पूरा रूप के हो?",
+    "a": "Indian Space Research Organisation (भारतीय अन्तरिक्ष अनुसन्धान संगठन)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "NASA को पूरा रूप के हो?",
+    "a": "National Aeronautics and Space Administration",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "रुसको अन्तरिक्ष संस्थाको नाम के हो?",
+    "a": "रोस्कोस्मोस",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०१९ मा चन्द्रमाको पछिल्लो भागमा अवतरण गर्ने चिनियाँ मिसन कुन हो?",
+    "a": "छाङ्अ-४",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "उपग्रह प्रक्षेपण प्रायः पूर्वतिर किन गरिन्छ?",
+    "a": "पृथ्वीको पश्चिमबाट पूर्वको परिभ्रमण गतिको लाभ लिन",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "कक्षमा रहेका अन्तरिक्ष यात्रीले भारहीनता किन महसुस गर्छन्?",
+    "a": "उनीहरू पृथ्वीको वरिपरि निरन्तर मुक्त पतन (free fall) अवस्थामा हुन्छन्",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चन्द्रमाको सतहमा पहिलो पटक मानव उतार्ने कार्यक्रमको नाम के हो?",
+    "a": "अपोलो कार्यक्रम (नासा)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "इसरोको भरपर्दो प्रक्षेपण यानलाई के भनिन्छ (उदाहरण)?",
+    "a": "PSLV (Polar Satellite Launch Vehicle)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चन्द्रयान-३ को अवतरण स्थललाई के नाम दिइएको छ?",
+    "a": "शिव शक्ति पोइन्ट",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भारतको पहिलो सफल प्रक्षेपण यान (SLV-3) ले कुन उपग्रह कक्षमा पुर्‍यायो (सन् १९८०)?",
+    "a": "Rohini (RS-1)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "इसरोको मुख्यालय कुन सहरमा छ?",
+    "a": "Bengaluru",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भारतको मुख्य उपग्रह प्रक्षेपण केन्द्र कुन हो?",
+    "a": "Satish Dhawan Space Centre, Sriharikota",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भारतले पहिलो रकेट (सन् १९६३) कहाँबाट प्रक्षेपण गर्‍यो?",
+    "a": "Thumba (Kerala)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चन्द्रयान-१ कुन वर्ष प्रक्षेपण भयो?",
+    "a": "2008 (22 October)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "मंगलयान कुन यानबाट प्रक्षेपण गरियो र कहिले?",
+    "a": "PSLV-C25, 5 November 2013",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चन्द्रयान-३ लाई कुन प्रक्षेपण यानले अन्तरिक्षमा पुर्‍यायो?",
+    "a": "LVM3 (GSLV Mk III), 14 July 2023",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भारतको क्षेत्रीय नेभिगेसन प्रणालीको नाम के हो?",
+    "a": "NavIC",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "गगनयान कार्यक्रम के हो?",
+    "a": "India's planned human spaceflight programme",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०२५ मा अन्तर्राष्ट्रिय अन्तरिक्ष स्टेशन पुग्ने भारतीय अन्तरिक्ष यात्री को हुन्?",
+    "a": "Shubhanshu Shukla (Axiom-4 mission, June 2025)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "इसरोको SpaDeX प्रयोग के सँग सम्बन्धित छ?",
+    "a": "In-space docking of two satellites (demonstrated in January 2025)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अमेरिकी स्पेस सटल कार्यक्रम कुन वर्षदेखि कुन वर्षसम्म चल्यो?",
+    "a": "1981 to 2011",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "पहिलो स्पेस सटल कुन थियो र कहिले प्रक्षेपण भयो?",
+    "a": "Columbia, 12 April 1981",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सटल चलेन्जर दुर्घटना कहिले भयो?",
+    "a": "28 January 1986",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सटल कोलम्बिया दुर्घटना कहिले भयो?",
+    "a": "1 February 2003",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "नासाको पहिलो अन्तरिक्ष स्टेशनको नाम के हो (सन् १९७३)?",
+    "a": "Skylab",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "बृहस्पति नजिकबाट गुज्रने पहिलो यान कुन हो?",
+    "a": "Pioneer 10 (1973)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "शनिको नजिकबाट गुज्रने पहिलो यान कुन हो?",
+    "a": "Pioneer 11 (1979)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भ्वायजर यानहरूमा रहेको 'गोल्डेन रेकर्ड' के हो?",
+    "a": "A record carrying sounds and images of Earth for any extraterrestrial finder",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "ESA को यानले धूमकेतु 67P मा अवतरण गराएको ल्यान्डरको नाम के हो?",
+    "a": "Philae (from Rosetta mission, 2014)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "हेलीको धूमकेतुको नजिकबाट अवलोकन गर्ने ESA को यान कुन हो (सन् १९८६)?",
+    "a": "Giotto",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "शनिको उपग्रह टाइटनमा सन् २००५ मा अवतरण गर्ने ल्यान्डर कुन हो?",
+    "a": "Huygens probe",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सोभियत संघको अन्तरिक्ष स्टेशन 'मीर' कुन वर्षसम्म सञ्चालनमा रह्यो?",
+    "a": "Launched 1986, deorbited 2001",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "ISS मा निरन्तर मानव उपस्थिति कुन वर्षदेखि छ?",
+    "a": "Since November 2000",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "ISS को पहिलो मोड्युल कुन थियो?",
+    "a": "Zarya (1998)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चीनको आफ्नै अन्तरिक्ष स्टेशनको नाम के हो?",
+    "a": "Tiangong",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चीनको मंगल रोभर 'झुरोङ' कुन मिसनसँग गएको थियो?",
+    "a": "Tianwen-1 (2021)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "मंगलको कक्षामा सन् २०२१ मा पुगेको यूएईको यान कुन हो?",
+    "a": "Hope (Al-Amal) probe",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सन् २०२२ मा नासाको 'आर्टेमिस-१' के थियो?",
+    "a": "An uncrewed test flight of the Orion spacecraft around the Moon",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "पहिलो अन्तरिक्ष पर्यटक कसलाई मानिन्छ?",
+    "a": "Dennis Tito (2001)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "जापानको अन्तरिक्ष संस्थाको नाम के हो?",
+    "a": "JAXA",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "चीनको अन्तरिक्ष संस्थाको नाम के हो?",
+    "a": "CNSA (China National Space Administration)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "युरोपेली अन्तरिक्ष संस्थाको नाम र स्थापना वर्ष के हो?",
+    "a": "ESA, 1975",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "पृथ्वीको सबैभन्दा नजिकको कक्षा (LEO) मा उपग्रहको कक्षीय वेग करिब कति हुन्छ?",
+    "a": "About 7.8 km/s",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "भूस्थिर उपग्रहले पृथ्वीलाई एक पटक परिक्रमा गर्न कति समय लाग्छ?",
+    "a": "24 hours",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "रकेट कुन न्युटनको नियममा आधारित भएर उड्छ?",
+    "a": "Newton's third law (action and reaction)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "क्रायोजेनिक इन्जिनमा कुन इन्धन प्रयोग हुन्छ?",
+    "a": "Liquid hydrogen as fuel and liquid oxygen as oxidiser",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "GPS ले स्थिति निकाल्न कम्तीमा कति उपग्रहको सङ्केत चाहिन्छ?",
+    "a": "At least four",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अमेरिका, रुस, युरोप र चीनका नेभिगेसन प्रणालीका नाम के के हुन्?",
+    "a": "GPS (USA), GLONASS (Russia), Galileo (EU), BeiDou (China)",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "पृथ्वी अवलोकनका लागि प्रयोग हुने उपग्रहले प्रायः कुन प्रकारको कक्षा लिन्छन्?",
+    "a": "Polar / Sun-synchronous orbit",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "मौसम पूर्वानुमान गर्ने उपग्रहको उदाहरण दिनुहोस् (भारत)।",
+    "a": "INSAT / Kalpana series",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "सोभियत संघको पहिलो मानव अन्तरिक्ष कार्यक्रमको नाम के हो?",
+    "a": "Vostok programme",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "अमेरिकाको चन्द्रमा सम्बन्धी मानव कार्यक्रमको अगाडिको दुई कार्यक्रम कुन कुन थिए?",
+    "a": "Mercury and Gemini programmes",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "नासाको 'डन' (Dawn) यानले कुन दुई पिण्डको भ्रमण गर्‍यो?",
+    "a": "Vesta and Ceres",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "रुसको लुना-२५ यानको सन् २०२३ मा के भयो?",
+    "a": "It crashed on the Moon in August 2023",
+    "cat": "11. Space Exploration & Missions"
+  },
+  {
+    "q": "आधुनिक खगोल विज्ञानका पिता कसलाई भनिन्छ?",
+    "a": "Nicolaus Copernicus (Galileo is called the father of modern observational astronomy)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "प्राचीन कालमा सूर्यकेन्द्रित धारणा पहिलो पटक कसले प्रस्ताव गरेका थिए?",
+    "a": "Aristarchus of Samos (about 3rd century BCE)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "कोपरनिकसको प्रसिद्ध पुस्तकको नाम के हो?",
+    "a": "De revolutionibus orbium coelestium (1543)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'अल्माजेस्ट' पुस्तकका लेखक को हुन्?",
+    "a": "Claudius Ptolemy",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "केप्लरले आफ्ना नियम बनाउन कुन डेनिस खगोलविद्का अवलोकन तथ्यांक प्रयोग गरे?",
+    "a": "Tycho Brahe",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ग्रहगति सम्बन्धी तीन नियम दिने वैज्ञानिक को हुन्?",
+    "a": "Johannes Kepler",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "न्युटनको 'प्रिन्सिपिया' कुन वर्ष प्रकाशित भयो?",
+    "a": "1687",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "न्युटनले कुन प्रकारको दूरबिन बनाएका थिए (सन् १६६८)?",
+    "a": "Reflecting telescope",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "सापेक्षताको सामान्य सिद्धान्त आइन्स्टाइनले कुन वर्ष प्रकाशित गरे?",
+    "a": "1915",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'A Brief History of Time' का लेखक को हुन्?",
+    "a": "Stephen Hawking (1988)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ब्ल्याक होलबाट विकिरण निस्कन सक्छ भन्ने सिद्धान्त (Hawking radiation) कसले दिए?",
+    "a": "Stephen Hawking",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "आर्यभट्टको प्रसिद्ध ग्रन्थको नाम के हो?",
+    "a": "Aryabhatiya (written in 499 CE)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "आर्यभट्ट कुन वर्ष जन्मिएको मानिन्छ?",
+    "a": "476 CE",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'ब्रह्मस्फुटसिद्धान्त' का रचयिता भारतीय खगोलविद् को हुन्?",
+    "a": "Brahmagupta (628 CE)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'पञ्चसिद्धान्तिका' र 'बृहत्संहिता' का रचयिता को हुन्?",
+    "a": "Varahamihira",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "गेलिलियोले दूरबिनबाट के के पत्ता लगाए?",
+    "a": "Moons of Jupiter, phases of Venus, sunspots, craters and mountains on the Moon",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "सन् १६०८ मा दूरबिनको पेटेन्टका लागि निवेदन दिने डच चश्मा बनाउने व्यक्ति को थिए?",
+    "a": "Hans Lippershey",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "शनिको सबैभन्दा ठूलो उपग्रह टाइटन कसले सन् १६५५ मा पत्ता लगाए?",
+    "a": "Christiaan Huygens",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "शनिको छल्लाहरूबीचको ठूलो खाली पट्टीलाई के भनिन्छ, र कसले पत्ता लगाए?",
+    "a": "Cassini Division; Giovanni Domenico Cassini (1675)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "वरुण ग्रहलाई दूरबिनबाट पहिलो पटक देख्ने खगोलविद् को थिए?",
+    "a": "Johann Galle (using predictions of Le Verrier), 1846",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "हब्बलको नियम (Hubble's law) ले के भन्छ?",
+    "a": "Galaxies move away from us at a speed proportional to their distance",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'Big Bang' शब्द पहिलो पटक कसले प्रयोग गरे?",
+    "a": "Fred Hoyle (1949, on BBC radio)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "सन् १९८३ मा भौतिकशास्त्रको नोबेल पुरस्कार पाउने भारतीय मूलका खगोल भौतिकशास्त्री को हुन्?",
+    "a": "Subrahmanyan Chandrasekhar",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ताराको स्पेक्ट्रमसम्बन्धी 'साहा समीकरण' दिने भारतीय वैज्ञानिक को हुन्?",
+    "a": "Meghnad Saha",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "सूर्य पृथ्वीभन्दा धेरै ठूलो भए पनि यसको औसत घनत्व पृथ्वीको भन्दा किन कम छ?",
+    "a": "Because the Sun is mostly light gases (hydrogen and helium), average density about 1.41 g/cm3 versus Earth's 5.51",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "प्लुटोको खोज कुन वेधशालामा भयो?",
+    "a": "Lowell Observatory, Arizona (Clyde Tombaugh, 1930)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ब्रह्माण्डको विस्तारलाई गणितीय रूपमा पहिले देखाउने रुसी वैज्ञानिक को थिए?",
+    "a": "Alexander Friedmann",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "दूरीको मापन गर्न 'सेफिड परिवर्ती तारा' लाई के भनिन्छ?",
+    "a": "Standard candles",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "कुन वैज्ञानिकले सन् १९१८ मा सूर्य आकाशगंगाको केन्द्रमा नभई किनारतिर छ भन्ने देखाए?",
+    "a": "Harlow Shapley",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "खगोलीय वस्तुको पृथ्वीबाट टाढा जाँदा प्रकाशको तरंगदैर्घ्य बढ्ने घटनालाई के भनिन्छ?",
+    "a": "Redshift",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "दूरबिनका दुई मुख्य प्रकार कुन कुन हुन्?",
+    "a": "Refracting (lens) and reflecting (mirror) telescopes",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "रेडियो दूरबिनले के अध्ययन गर्छ?",
+    "a": "Radio waves coming from celestial objects",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "भारतको पुणेनजिक रहेको प्रसिद्ध रेडियो दूरबिन कुन हो?",
+    "a": "Giant Metrewave Radio Telescope (GMRT)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "विश्वको सबैभन्दा ठूलो एकल-थाली (single-dish) रेडियो दूरबिन कुन देशमा छ?",
+    "a": "China (FAST, 500 m, Guizhou)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ताराको रासायनिक संरचना थाहा पाउन कुन उपकरण प्रयोग गरिन्छ?",
+    "a": "Spectroscope (spectrograph)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "हब्बल स्पेस टेलिस्कोपको नाम कसको नामबाट राखिएको हो?",
+    "a": "Edwin Hubble",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "ताराको चमक मापन गर्ने म्याग्निच्युड स्केलमा सानो अङ्कले के जनाउँछ?",
+    "a": "A brighter star (lower magnitude number = brighter)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "पृथ्वीतिर आउँदै गरेको वस्तुको प्रकाशमा हुने डप्लर प्रभावलाई के भनिन्छ?",
+    "a": "Blueshift",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "नक्षत्र दिन (sidereal day) र सौर दिनबीच के फरक हुन्छ?",
+    "a": "A sidereal day is about 23 h 56 min (relative to stars); a solar day is 24 h (relative to the Sun)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "हवाईको कुन पर्वतमा संसारका धेरै ठूला दूरबिन राखिएका छन्?",
+    "a": "Mauna Kea",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "भारतको कोडाइकनाल सोलार अब्जर्भेटरी कुन वर्ष स्थापना भएको थियो?",
+    "a": "1899",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "लद्दाखको हान्ले (Hanle) मा रहेको वेधशालाको विशेषता के हो?",
+    "a": "One of the world's highest astronomical observatories (about 4,500 m); Indian Astronomical Observatory",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "तारामण्डलमा ताराहरू देखाउने प्रदर्शनी गृहलाई के भनिन्छ?",
+    "a": "Planetarium",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "प्राचीन कालमा ताराको उचाइ नाप्न प्रयोग गरिने उपकरणको नाम के हो?",
+    "a": "Astrolabe",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "'प्रकाश सेकेन्ड' भनेको के हो?",
+    "a": "The distance light travels in one second (about 299,792 km)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "अन्तरिक्षमा हब्बल जस्ता दूरबिन राख्नुको मुख्य फाइदा के हो?",
+    "a": "No atmospheric distortion or absorption, giving much clearer images",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "गामा, एक्स-रे जस्ता किरण अध्ययन गर्न अन्तरिक्षमा दूरबिन किन चाहिन्छ?",
+    "a": "Earth's atmosphere absorbs these rays",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "भारतको पहिलो बहु-तरंगदैर्घ्य अन्तरिक्ष वेधशालाको नाम के हो?",
+    "a": "AstroSat (launched 2015)",
+    "cat": "12. Astronomers, Instruments & Units"
+  },
+  {
+    "q": "गुरुत्वाकर्षण बल दूरी बढ्दै जाँदा कसरी परिवर्तन हुन्छ?",
+    "a": "It decreases with the square of the distance (inverse-square law)",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "पिण्ड र तौलबीच के फरक हुन्छ?",
+    "a": "Mass is the amount of matter and stays constant; weight is the gravitational force and changes with location",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "चन्द्रमामा ६० किलोको व्यक्तिको तौल कति बल जत्तिको हुन्छ (g = 1.62)?",
+    "a": "About 97 N (mass remains 60 kg)",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "ग्रहलाई कक्षामा राख्ने बललाई के भनिन्छ?",
+    "a": "Gravitational (centripetal) force from the Sun",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "न्युटनको पहिलो नियमलाई अर्को नाम के दिइन्छ?",
+    "a": "Law of inertia",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "पृथ्वी वरिपरि घुम्ने उपग्रहले किन तल खस्दैन?",
+    "a": "It is in continuous free fall but has enough sideways speed to keep missing the Earth",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "गुरुत्वाकर्षणको स्थिरांक G को मान करिब कति हो?",
+    "a": "6.67 x 10^-11 N m^2 kg^-2",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "प्रकाशको गति पदार्थमा कस्तो हुन्छ?",
+    "a": "Slower than in vacuum (it depends on the refractive index)",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "डप्लर प्रभाव ध्वनिमा कसरी देखिन्छ?",
+    "a": "Pitch rises as the source approaches and falls as it moves away",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "तरंगदैर्घ्य बढ्दै जाँदा विद्युत्चुम्बकीय स्पेक्ट्रममा के क्रम हुन्छ?",
+    "a": "Gamma, X-ray, ultraviolet, visible, infrared, microwave, radio",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "दृश्य प्रकाशमा सबैभन्दा छोटो तरंगदैर्घ्य कुन रङको हुन्छ?",
+    "a": "Violet",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "दृश्य प्रकाशमा सबैभन्दा लामो तरंगदैर्घ्य कुन रङको हुन्छ?",
+    "a": "Red",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "कुन विकिरणले पृथ्वीको वायुमण्डल सजिलै पार गर्छ र रेडियो दूरबिनमा प्रयोग हुन्छ?",
+    "a": "Radio waves",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "सूर्यको प्रकाशमा सात रङ छुट्याउने घटना कुन हो?",
+    "a": "Dispersion (as seen in a rainbow)",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "अन्तरिक्षमा मानिसको उचाइ केही बढ्न सक्छ किन?",
+    "a": "Without gravity, the spine decompresses, so astronauts become slightly taller",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "अन्तरिक्ष यात्रीले किन विशेष खाना र खुट्टा बाँधेर सुत्नुपर्छ?",
+    "a": "In microgravity objects and people float, so they must be secured",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "ग्रहहरूको कक्षा किन लगभग एउटै समतलमा छन्?",
+    "a": "They formed from a flattened rotating disc of gas and dust",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "सौर्यमण्डलका लगभग सबै ग्रहहरू सूर्यको परिक्रमा एउटै दिशामा किन गर्छन्?",
+    "a": "They inherited the rotation direction of the original solar nebula",
+    "cat": "13. Physics Concepts"
+  },
+  {
+    "q": "कोणीय संवेग संरक्षणको कारण नेबुला सङ्कुचित हुँदा के हुन्छ?",
+    "a": "It spins faster and flattens into a disc",
+    "cat": "13. Physics Concepts"
+  }
+]
